@@ -1,0 +1,319 @@
+category,state,count
+3D Printing,fail,441
+3D Printing,successful,242
+Academic,fail,728
+Academic,successful,188
+Accessories,fail,2092
+Accessories,successful,1073
+Action,fail,633
+Action,successful,107
+Animals,fail,192
+Animals,successful,63
+Animation,fail,1859
+Animation,successful,682
+Anthologies,fail,263
+Anthologies,successful,521
+Apparel,fail,5752
+Apparel,successful,1414
+Apps,fail,5967
+Apps,successful,378
+Architecture,fail,581
+Architecture,successful,179
+Art,fail,4868
+Art,successful,3385
+Art Books,fail,1320
+Art Books,successful,1356
+Audio,fail,299
+Audio,successful,111
+Bacon,fail,183
+Bacon,successful,38
+Blues,fail,151
+Blues,successful,117
+Calendars,fail,201
+Calendars,successful,128
+Camera Equipment,fail,224
+Camera Equipment,successful,192
+Candles,fail,374
+Candles,successful,55
+Ceramics,fail,173
+Ceramics,successful,132
+Children's Books,fail,4408
+Children's Books,successful,2348
+Childrenswear,fail,388
+Childrenswear,successful,95
+Chiptune,fail,8
+Chiptune,successful,27
+Civic Design,fail,185
+Civic Design,successful,104
+Classical Music,fail,966
+Classical Music,successful,1647
+Comedy,fail,1408
+Comedy,successful,912
+Comic Books,fail,1129
+Comic Books,successful,1614
+Comics,fail,2490
+Comics,successful,2506
+Community Gardens,fail,232
+Community Gardens,successful,66
+Conceptual Art,fail,664
+Conceptual Art,successful,366
+Cookbooks,fail,410
+Cookbooks,successful,130
+Country & Folk,fail,1639
+Country & Folk,successful,2812
+Couture,fail,233
+Couture,successful,42
+Crafts,fail,3502
+Crafts,successful,1162
+Crochet,fail,127
+Crochet,successful,35
+DIY,fail,990
+DIY,successful,183
+DIY Electronics,fail,485
+DIY Electronics,successful,417
+Dance,fail,780
+Dance,successful,1542
+Design,fail,2786
+Design,successful,1413
+Digital Art,fail,975
+Digital Art,successful,371
+Documentary,fail,10215
+Documentary,successful,5924
+Drama,fail,1367
+Drama,successful,812
+Drinks,fail,1828
+Drinks,successful,594
+Electronic Music,fail,1470
+Electronic Music,successful,700
+Embroidery,fail,94
+Embroidery,successful,19
+Events,fail,660
+Events,successful,158
+Experimental,fail,566
+Experimental,successful,358
+Fabrication Tools,fail,184
+Fabrication Tools,successful,66
+Faith,fail,636
+Faith,successful,456
+Family,fail,270
+Family,successful,66
+Fantasy,fail,239
+Fantasy,successful,106
+Farmer's Markets,fail,354
+Farmer's Markets,successful,70
+Farms,fail,912
+Farms,successful,242
+Fashion,fail,6366
+Fashion,successful,2188
+Festivals,fail,382
+Festivals,successful,457
+Fiction,fail,6936
+Fiction,successful,2233
+Film & Video,fail,7038
+Film & Video,successful,3070
+Fine Art,fail,493
+Fine Art,successful,283
+Flight,fail,350
+Flight,successful,76
+Food,fail,8196
+Food,successful,3297
+Food Trucks,fail,1535
+Food Trucks,successful,217
+Footwear,fail,633
+Footwear,successful,298
+Gadgets,fail,2138
+Gadgets,successful,827
+Games,fail,2447
+Games,successful,779
+Gaming Hardware,fail,329
+Gaming Hardware,successful,99
+Glass,fail,100
+Glass,successful,38
+Graphic Design,fail,1252
+Graphic Design,successful,750
+Graphic Novels,fail,853
+Graphic Novels,successful,1011
+Hardware,fail,2457
+Hardware,successful,1206
+Hip-Hop,fail,3310
+Hip-Hop,successful,602
+Horror,fail,890
+Horror,successful,397
+Illustration,fail,1549
+Illustration,successful,1626
+Immersive,fail,161
+Immersive,successful,169
+Indie Rock,fail,2039
+Indie Rock,successful,3618
+Installations,fail,249
+Installations,successful,233
+Interactive Design,fail,319
+Interactive Design,successful,79
+Jazz,fail,746
+Jazz,successful,1104
+Jewelry,fail,938
+Jewelry,successful,301
+Journalism,fail,1275
+Journalism,successful,472
+Kids,fail,159
+Kids,successful,126
+Knitting,fail,96
+Knitting,successful,85
+Latin,fail,99
+Latin,successful,38
+Letterpress,fail,18
+Letterpress,successful,31
+Literary Journals,fail,145
+Literary Journals,successful,133
+Literary Spaces,fail,14
+Literary Spaces,successful,13
+Live Games,fail,870
+Live Games,successful,180
+Makerspaces,fail,162
+Makerspaces,successful,76
+Metal,fail,442
+Metal,successful,275
+Mixed Media,fail,1812
+Mixed Media,successful,945
+Mobile Games,fail,1636
+Mobile Games,successful,153
+Movie Theaters,fail,180
+Movie Theaters,successful,52
+Music,fail,9295
+Music,successful,6432
+Music Videos,fail,469
+Music Videos,successful,240
+Musical,fail,451
+Musical,successful,462
+Narrative Film,fail,3175
+Narrative Film,successful,2013
+Nature,fail,474
+Nature,successful,100
+Nonfiction,fail,6088
+Nonfiction,successful,2230
+Painting,fail,2145
+Painting,successful,1149
+People,fail,873
+People,successful,230
+Performance Art,fail,1220
+Performance Art,successful,934
+Performances,fail,389
+Performances,successful,624
+Periodicals,fail,750
+Periodicals,successful,515
+Pet Fashion,fail,102
+Pet Fashion,successful,37
+Photo,fail,164
+Photo,successful,32
+Photobooks,fail,945
+Photobooks,successful,635
+Photography,fail,3876
+Photography,successful,1876
+Places,fail,621
+Places,successful,118
+Playing Cards,fail,1530
+Playing Cards,successful,967
+Plays,fail,574
+Plays,successful,804
+Poetry,fail,882
+Poetry,successful,487
+Pop,fail,1789
+Pop,successful,1561
+Pottery,fail,56
+Pottery,successful,44
+Print,fail,566
+Print,successful,161
+Printing,fail,189
+Printing,successful,49
+Product Design,fail,14352
+Product Design,successful,7962
+Public Art,fail,1534
+Public Art,successful,1543
+Publishing,fail,4378
+Publishing,successful,1640
+Punk,fail,171
+Punk,successful,146
+Puzzles,fail,143
+Puzzles,successful,88
+Quilts,fail,62
+Quilts,successful,19
+R&B,fail,351
+R&B,successful,107
+Radio & Podcasts,fail,529
+Radio & Podcasts,successful,394
+Ready-to-wear,fail,719
+Ready-to-wear,successful,145
+Residencies,fail,19
+Residencies,successful,50
+Restaurants,fail,2362
+Restaurants,successful,457
+Robots,fail,346
+Robots,successful,226
+Rock,fail,3258
+Rock,successful,3500
+Romance,fail,135
+Romance,successful,55
+Science Fiction,fail,472
+Science Fiction,successful,272
+Sculpture,fail,1112
+Sculpture,successful,698
+Shorts,fail,5684
+Shorts,successful,6673
+Small Batch,fail,1251
+Small Batch,successful,557
+Software,fail,2677
+Software,successful,371
+Sound,fail,395
+Sound,successful,274
+Space Exploration,fail,203
+Space Exploration,successful,120
+Spaces,fail,546
+Spaces,successful,295
+Stationery,fail,142
+Stationery,successful,77
+Tabletop Games,fail,6314
+Tabletop Games,successful,7866
+Taxidermy,fail,8
+Taxidermy,successful,5
+Technology,fail,5613
+Technology,successful,1317
+Television,fail,859
+Television,successful,156
+Textiles,fail,199
+Textiles,successful,77
+Theater,fail,2652
+Theater,successful,4405
+Thrillers,fail,546
+Thrillers,successful,200
+Translations,fail,118
+Translations,successful,35
+Typography,fail,45
+Typography,successful,63
+Vegan,fail,403
+Vegan,successful,185
+Video,fail,377
+Video,successful,51
+Video Art,fail,143
+Video Art,successful,51
+Video Games,fail,9444
+Video Games,successful,2386
+Wearables,fail,845
+Wearables,successful,388
+Weaving,fail,66
+Weaving,successful,27
+Web,fail,4710
+Web,successful,443
+Webcomics,fail,290
+Webcomics,successful,358
+Webseries,fail,4064
+Webseries,successful,1698
+Woodworking,fail,875
+Woodworking,successful,292
+Workshops,fail,114
+Workshops,successful,50
+World Music,fail,1180
+World Music,successful,922
+Young Adult,fail,649
+Young Adult,successful,172
+Zines,fail,212
+Zines,successful,179

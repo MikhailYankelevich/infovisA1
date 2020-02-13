@@ -1,0 +1,2763 @@
+category,country,goal
+3D Printing,AT,20000.0
+3D Printing,AU,10000.0
+3D Printing,BE,2849.5
+3D Printing,CA,15000.0
+3D Printing,CH,40000.0
+3D Printing,DE,12000.0
+3D Printing,DK,150000.0
+3D Printing,ES,15000.0
+3D Printing,FR,15500.0
+3D Printing,GB,15900.0
+3D Printing,HK,125000.0
+3D Printing,IE,40000.0
+3D Printing,IT,10000.0
+3D Printing,LU,27732.5
+3D Printing,MX,80000.0
+3D Printing,NL,25000.0
+3D Printing,NO,66000.0
+3D Printing,NZ,25000.0
+3D Printing,Not Specified,20000.0
+3D Printing,SE,225000.0
+3D Printing,SG,145000.0
+3D Printing,US,20000.0
+Academic,AT,6000.0
+Academic,AU,5500.0
+Academic,BE,28000.0
+Academic,CA,5000.0
+Academic,CH,6450.0
+Academic,DE,3100.0
+Academic,DK,15000.0
+Academic,ES,5750.0
+Academic,FR,10000.0
+Academic,GB,2349.0
+Academic,HK,117500.0
+Academic,IE,20000.0
+Academic,IT,3500.0
+Academic,LU,2000.0
+Academic,MX,40000.0
+Academic,NL,24750.0
+Academic,NO,100000.0
+Academic,NZ,1250.0
+Academic,SE,50000.0
+Academic,SG,3500.0
+Academic,US,5163.0
+Accessories,AT,5000.0
+Accessories,AU,5000.0
+Accessories,BE,3500.0
+Accessories,CA,5000.0
+Accessories,CH,10000.0
+Accessories,DE,6000.0
+Accessories,DK,50000.0
+Accessories,ES,8500.0
+Accessories,FR,10000.0
+Accessories,GB,3000.0
+Accessories,HK,60000.0
+Accessories,IE,5750.0
+Accessories,IT,10000.0
+Accessories,JP,522500.0
+Accessories,LU,100000.0
+Accessories,MX,39000.0
+Accessories,NL,9000.0
+Accessories,NO,50000.0
+Accessories,NZ,10000.0
+Accessories,Not Specified,30000.0
+Accessories,SE,50000.0
+Accessories,SG,2600.0
+Accessories,US,5000.0
+Action,AT,2850.0
+Action,AU,10000.0
+Action,BE,7600.0
+Action,CA,5000.0
+Action,DE,22500.0
+Action,DK,4000.0
+Action,ES,15000.0
+Action,FR,12600.0
+Action,GB,6000.0
+Action,IE,16000.0
+Action,IT,3550.0
+Action,MX,18000.0
+Action,NL,2550.0
+Action,NO,44000.0
+Action,NZ,250.0
+Action,SE,50000.0
+Action,US,10000.0
+Animals,AU,2500.0
+Animals,BE,3000.0
+Animals,CA,3000.0
+Animals,DE,3000.0
+Animals,ES,2000.0
+Animals,FR,3100.0
+Animals,GB,2600.0
+Animals,IE,500.0
+Animals,IT,800.0
+Animals,MX,35250.0
+Animals,NL,3500.0
+Animals,NO,9750.0
+Animals,NZ,20940.0
+Animals,SE,72500.0
+Animals,US,2850.0
+Animation,AT,3500.0
+Animation,AU,6500.0
+Animation,BE,100000.0
+Animation,CA,15000.0
+Animation,CH,6250.0
+Animation,DE,10000.0
+Animation,DK,25000.0
+Animation,ES,10000.0
+Animation,FR,7000.0
+Animation,GB,5500.0
+Animation,IE,1500.0
+Animation,IT,25000.0
+Animation,MX,50000.0
+Animation,NL,18000.0
+Animation,NO,140000.0
+Animation,NZ,22500.0
+Animation,SE,125023.0
+Animation,SG,4500.0
+Animation,US,10000.0
+Anthologies,AT,600.0
+Anthologies,AU,5000.0
+Anthologies,BE,1500.0
+Anthologies,CA,4850.0
+Anthologies,DE,16000.0
+Anthologies,ES,5700.0
+Anthologies,FR,11000.0
+Anthologies,GB,1700.0
+Anthologies,HK,50000.0
+Anthologies,IE,3600.0
+Anthologies,IT,3700.0
+Anthologies,MX,46000.0
+Anthologies,NL,3700.0
+Anthologies,NO,250000.0
+Anthologies,NZ,650.0
+Anthologies,SE,100000.0
+Anthologies,SG,10000.0
+Anthologies,US,4500.0
+Apparel,AT,10000.0
+Apparel,AU,5000.0
+Apparel,BE,3250.0
+Apparel,CA,7000.0
+Apparel,CH,11110.0
+Apparel,DE,10000.0
+Apparel,DK,72500.0
+Apparel,ES,8000.0
+Apparel,FR,10000.0
+Apparel,GB,3000.0
+Apparel,HK,84150.0
+Apparel,IE,7000.0
+Apparel,IT,13250.0
+Apparel,JP,1750000.0
+Apparel,LU,10000.0
+Apparel,MX,100000.0
+Apparel,NL,12250.0
+Apparel,NO,53500.0
+Apparel,NZ,4000.0
+Apparel,Not Specified,31500.0
+Apparel,SE,59000.0
+Apparel,SG,5000.0
+Apparel,US,6000.0
+Apps,AT,20000.0
+Apps,AU,20000.0
+Apps,BE,27500.0
+Apps,CA,20000.0
+Apps,CH,28000.0
+Apps,DE,20000.0
+Apps,DK,50000.0
+Apps,ES,15000.0
+Apps,FR,20000.0
+Apps,GB,12500.0
+Apps,HK,150000.0
+Apps,IE,10000.0
+Apps,IT,20000.0
+Apps,JP,10000000.0
+Apps,LU,25050.0
+Apps,MX,107750.0
+Apps,NL,20000.0
+Apps,NO,96500.0
+Apps,NZ,16250.0
+Apps,SE,90000.0
+Apps,SG,30000.0
+Apps,US,18000.0
+Architecture,AT,25000.0
+Architecture,AU,27500.0
+Architecture,BE,17500.0
+Architecture,CA,23250.0
+Architecture,DE,25000.0
+Architecture,DK,82500.0
+Architecture,ES,9500.0
+Architecture,FR,12500.0
+Architecture,GB,5000.0
+Architecture,HK,200000.0
+Architecture,IE,75000.0
+Architecture,IT,50000.0
+Architecture,MX,35000.0
+Architecture,NL,11750.0
+Architecture,NO,85000.0
+Architecture,NZ,130000.0
+Architecture,SE,25000.0
+Architecture,US,16000.0
+Art,AT,5027.5
+Art,AU,3000.0
+Art,BE,6969.0
+Art,CA,3100.0
+Art,CH,22500.0
+Art,DE,4200.0
+Art,DK,18500.0
+Art,ES,3000.0
+Art,FR,3650.0
+Art,GB,1500.0
+Art,HK,3800.0
+Art,IE,3000.0
+Art,IT,8500.0
+Art,JP,700000.0
+Art,MX,56500.0
+Art,NL,4000.0
+Art,NO,22500.0
+Art,NZ,6000.0
+Art,SE,25000.0
+Art,SG,700.0
+Art,US,3000.0
+Art Books,AT,5000.0
+Art Books,AU,5000.0
+Art Books,BE,4300.0
+Art Books,CA,8500.0
+Art Books,CH,8800.0
+Art Books,DE,10000.0
+Art Books,DK,44500.0
+Art Books,ES,5000.0
+Art Books,FR,8000.0
+Art Books,GB,4000.0
+Art Books,HK,38000.0
+Art Books,IE,8500.0
+Art Books,IT,6250.0
+Art Books,LU,13800.0
+Art Books,MX,117500.0
+Art Books,NL,5000.0
+Art Books,NO,130000.0
+Art Books,NZ,10000.0
+Art Books,SE,30000.0
+Art Books,SG,3500.0
+Art Books,US,5500.0
+Audio,AT,3600.0
+Audio,AU,1500.0
+Audio,CA,3500.0
+Audio,DE,3000.0
+Audio,DK,125000.0
+Audio,ES,15300.0
+Audio,FR,5500.0
+Audio,GB,1650.0
+Audio,IE,20000.0
+Audio,IT,550.0
+Audio,MX,100000.0
+Audio,NL,3100.0
+Audio,NO,10000.0
+Audio,NZ,1550.0
+Audio,SE,75000.0
+Audio,US,3000.0
+Bacon,AU,200.0
+Bacon,CA,27.5
+Bacon,DE,10.0
+Bacon,DK,100.0
+Bacon,ES,20.5
+Bacon,GB,1000.0
+Bacon,NL,5025.0
+Bacon,NO,15000.0
+Bacon,NZ,50.0
+Bacon,SE,10000.0
+Bacon,US,1001.0
+Blues,AU,7750.0
+Blues,CA,3300.0
+Blues,CH,3000.0
+Blues,DE,4500.0
+Blues,ES,4250.0
+Blues,FR,6000.0
+Blues,GB,1750.0
+Blues,IE,8000.0
+Blues,MX,60000.0
+Blues,NL,4400.0
+Blues,NO,42500.0
+Blues,NZ,4000.0
+Blues,SE,12500.0
+Blues,US,4100.0
+Calendars,AU,6250.0
+Calendars,CA,2350.0
+Calendars,DE,3450.0
+Calendars,ES,2800.0
+Calendars,FR,3250.0
+Calendars,GB,2350.0
+Calendars,IE,2200.0
+Calendars,IT,900.0
+Calendars,MX,102000.0
+Calendars,NL,2000.0
+Calendars,NO,33000.0
+Calendars,SE,17000.0
+Calendars,US,3000.0
+Camera Equipment,AT,16500.0
+Camera Equipment,AU,30000.0
+Camera Equipment,BE,15000.0
+Camera Equipment,CA,25000.0
+Camera Equipment,CH,4000.0
+Camera Equipment,DE,45000.0
+Camera Equipment,DK,241813.0
+Camera Equipment,FR,15000.0
+Camera Equipment,GB,16000.0
+Camera Equipment,HK,55000.0
+Camera Equipment,IT,50000.0
+Camera Equipment,MX,300000.0
+Camera Equipment,NL,5000.0
+Camera Equipment,NO,120000.0
+Camera Equipment,NZ,5850.0
+Camera Equipment,SE,190000.0
+Camera Equipment,US,25000.0
+Candles,AT,700.0
+Candles,AU,900.0
+Candles,CA,3000.0
+Candles,DE,3000.0
+Candles,DK,15000.0
+Candles,ES,5000.0
+Candles,FR,2462.5
+Candles,GB,1500.0
+Candles,IE,10000.0
+Candles,IT,7500.0
+Candles,NL,2000.0
+Candles,NZ,13000.0
+Candles,US,2000.0
+Ceramics,AU,8400.0
+Ceramics,BE,85.0
+Ceramics,CA,4000.0
+Ceramics,DE,4500.0
+Ceramics,DK,12000.0
+Ceramics,FR,1000.0
+Ceramics,GB,2500.0
+Ceramics,IE,1500.0
+Ceramics,IT,1500.0
+Ceramics,MX,26000.0
+Ceramics,NL,5100.0
+Ceramics,US,5000.0
+Children's Books,AT,8500.0
+Children's Books,AU,6000.0
+Children's Books,BE,6500.0
+Children's Books,CA,6000.0
+Children's Books,CH,5000.0
+Children's Books,DE,5000.0
+Children's Books,DK,19500.0
+Children's Books,ES,6250.0
+Children's Books,FR,4000.0
+Children's Books,GB,3500.0
+Children's Books,HK,50000.0
+Children's Books,IE,4250.0
+Children's Books,IT,10000.0
+Children's Books,JP,75000.0
+Children's Books,LU,1350.0
+Children's Books,MX,52000.0
+Children's Books,NL,5500.0
+Children's Books,NO,47500.0
+Children's Books,NZ,5950.0
+Children's Books,SE,35000.0
+Children's Books,SG,15000.0
+Children's Books,US,5000.0
+Childrenswear,AU,6200.0
+Childrenswear,BE,8000.0
+Childrenswear,CA,9250.0
+Childrenswear,CH,15000.0
+Childrenswear,DE,15000.0
+Childrenswear,DK,120000.0
+Childrenswear,ES,6000.0
+Childrenswear,FR,10000.0
+Childrenswear,GB,5500.0
+Childrenswear,IE,9500.0
+Childrenswear,IT,28000.0
+Childrenswear,JP,1100000.0
+Childrenswear,MX,220000.0
+Childrenswear,NL,4000.0
+Childrenswear,NZ,3975.0
+Childrenswear,SE,200000.0
+Childrenswear,SG,25.0
+Childrenswear,US,7000.0
+Chiptune,CA,5000.0
+Chiptune,DE,500.0
+Chiptune,DK,10000.0
+Chiptune,GB,8750.0
+Chiptune,NZ,49.0
+Chiptune,US,2600.0
+Civic Design,AU,50000.0
+Civic Design,BE,25000.0
+Civic Design,CA,10000.0
+Civic Design,DE,10500.0
+Civic Design,DK,70000.0
+Civic Design,ES,40000.0
+Civic Design,GB,30000.0
+Civic Design,IT,4000.0
+Civic Design,MX,150000.0
+Civic Design,NL,50000.0
+Civic Design,NO,100000.0
+Civic Design,NZ,15500.0
+Civic Design,SE,75000.0
+Civic Design,US,10000.0
+Classical Music,AT,2800.0
+Classical Music,AU,4000.0
+Classical Music,BE,9000.0
+Classical Music,CA,5000.0
+Classical Music,CH,11000.0
+Classical Music,DE,5500.0
+Classical Music,DK,50000.0
+Classical Music,ES,5000.0
+Classical Music,FR,7500.0
+Classical Music,GB,3000.0
+Classical Music,HK,60000.0
+Classical Music,IE,5500.0
+Classical Music,IT,6000.0
+Classical Music,JP,1500000.0
+Classical Music,LU,1850.0
+Classical Music,MX,32500.0
+Classical Music,NL,6000.0
+Classical Music,NO,145850.0
+Classical Music,NZ,3650.0
+Classical Music,SE,20000.0
+Classical Music,US,4000.0
+Comedy,AT,58000.0
+Comedy,AU,4000.0
+Comedy,BE,3000.0
+Comedy,CA,5000.0
+Comedy,CH,234000.0
+Comedy,DE,4000.0
+Comedy,DK,22500.0
+Comedy,ES,2600.0
+Comedy,FR,7500.0
+Comedy,GB,2500.0
+Comedy,IE,2000.0
+Comedy,IT,15000.0
+Comedy,MX,27500.0
+Comedy,NL,1000.0
+Comedy,NO,17500.0
+Comedy,NZ,7500.0
+Comedy,SE,22500.0
+Comedy,SG,12500.0
+Comedy,US,5075.0
+Comic Books,AT,4000.0
+Comic Books,AU,1275.0
+Comic Books,BE,1900.0
+Comic Books,CA,2900.0
+Comic Books,CH,1000.0
+Comic Books,DE,3500.0
+Comic Books,DK,10000.0
+Comic Books,ES,4265.0
+Comic Books,FR,6500.0
+Comic Books,GB,1234.0
+Comic Books,HK,12000.0
+Comic Books,IE,2650.0
+Comic Books,IT,2000.0
+Comic Books,LU,4500.0
+Comic Books,MX,19335.0
+Comic Books,NL,3000.0
+Comic Books,NO,17000.0
+Comic Books,NZ,1500.0
+Comic Books,SE,18000.0
+Comic Books,SG,3000.0
+Comic Books,US,2700.0
+Comics,AT,6500.0
+Comics,AU,3500.0
+Comics,BE,100.0
+Comics,CA,4000.0
+Comics,CH,14000.0
+Comics,DE,2500.0
+Comics,DK,20000.0
+Comics,ES,1400.0
+Comics,FR,2500.0
+Comics,GB,2500.0
+Comics,IT,600.0
+Comics,MX,45000.0
+Comics,NL,3000.0
+Comics,NO,7500.0
+Comics,NZ,5000.0
+Comics,SE,100000.0
+Comics,SG,1400.0
+Comics,US,4000.0
+Community Gardens,AU,2000.0
+Community Gardens,BE,6628.0
+Community Gardens,CA,12500.0
+Community Gardens,DE,1100.0
+Community Gardens,DK,300000.0
+Community Gardens,FR,10000.0
+Community Gardens,GB,6210.0
+Community Gardens,IT,9000.0
+Community Gardens,NL,4854.0
+Community Gardens,NZ,7500.0
+Community Gardens,US,5227.0
+Conceptual Art,AT,150450.0
+Conceptual Art,AU,4000.0
+Conceptual Art,CA,3000.0
+Conceptual Art,CH,20000.0
+Conceptual Art,DE,3250.0
+Conceptual Art,DK,7000.0
+Conceptual Art,ES,4500.0
+Conceptual Art,FR,3000.0
+Conceptual Art,GB,1500.0
+Conceptual Art,IE,1450.0
+Conceptual Art,IT,5750.0
+Conceptual Art,MX,70000.0
+Conceptual Art,NL,18500.0
+Conceptual Art,NO,168000.0
+Conceptual Art,NZ,7000.0
+Conceptual Art,SE,15000.0
+Conceptual Art,US,2500.0
+Cookbooks,AT,5265.0
+Cookbooks,AU,10250.0
+Cookbooks,BE,4500.0
+Cookbooks,CA,3000.0
+Cookbooks,CH,8000.0
+Cookbooks,DE,6000.0
+Cookbooks,DK,20000.0
+Cookbooks,ES,3175.0
+Cookbooks,FR,26000.0
+Cookbooks,GB,5500.0
+Cookbooks,HK,600000.0
+Cookbooks,IE,10000.0
+Cookbooks,IT,5750.0
+Cookbooks,MX,50000.0
+Cookbooks,NL,3000.0
+Cookbooks,NO,550000.0
+Cookbooks,NZ,8750.0
+Cookbooks,SE,20000.0
+Cookbooks,US,5000.0
+Country & Folk,AT,2500.0
+Country & Folk,AU,3500.0
+Country & Folk,CA,5000.0
+Country & Folk,CH,75.0
+Country & Folk,DE,3150.0
+Country & Folk,DK,105000.0
+Country & Folk,ES,2090.0
+Country & Folk,FR,8000.0
+Country & Folk,GB,2000.0
+Country & Folk,IE,6000.0
+Country & Folk,MX,800.0
+Country & Folk,NL,3000.0
+Country & Folk,NO,20000.0
+Country & Folk,NZ,8500.0
+Country & Folk,SE,32500.0
+Country & Folk,US,5000.0
+Couture,AU,3000.0
+Couture,BE,17850.0
+Couture,CA,3500.0
+Couture,DE,8750.0
+Couture,DK,40000.0
+Couture,ES,2750.0
+Couture,FR,10000.0
+Couture,GB,5500.0
+Couture,IE,3000.0
+Couture,IT,23000.0
+Couture,MX,30000.0
+Couture,NL,2750.0
+Couture,NZ,1000.0
+Couture,SE,60000.0
+Couture,US,8000.0
+Crafts,AT,2750.0
+Crafts,AU,3000.0
+Crafts,BE,5250.0
+Crafts,CA,3000.0
+Crafts,CH,8000.0
+Crafts,DE,2637.5
+Crafts,DK,31500.0
+Crafts,ES,2080.0
+Crafts,FR,5000.0
+Crafts,GB,1000.0
+Crafts,HK,1250.0
+Crafts,IE,9250.0
+Crafts,IT,8250.0
+Crafts,MX,50000.0
+Crafts,NL,5000.0
+Crafts,NO,25000.0
+Crafts,NZ,2750.0
+Crafts,SE,15000.0
+Crafts,SG,1000.0
+Crafts,US,2400.0
+Crochet,AU,300.0
+Crochet,CA,100.0
+Crochet,DE,310.0
+Crochet,DK,5000.0
+Crochet,GB,1000.0
+Crochet,IT,625.0
+Crochet,NO,15000.0
+Crochet,SG,32.5
+Crochet,US,1000.0
+DIY,AT,50000.0
+DIY,AU,2000.0
+DIY,BE,900.0
+DIY,CA,3100.0
+DIY,CH,7500.0
+DIY,DE,1500.0
+DIY,DK,5000.0
+DIY,ES,1500.0
+DIY,FR,1750.0
+DIY,GB,1800.0
+DIY,HK,15000.0
+DIY,IE,500.0
+DIY,IT,6500.0
+DIY,MX,51000.0
+DIY,NL,10000.0
+DIY,NZ,8000.0
+DIY,SE,25000.0
+DIY,SG,500.0
+DIY,US,2400.0
+DIY Electronics,AT,17250.0
+DIY Electronics,AU,9500.0
+DIY Electronics,BE,3000.0
+DIY Electronics,CA,3000.0
+DIY Electronics,CH,10000.0
+DIY Electronics,DE,7100.0
+DIY Electronics,DK,60000.0
+DIY Electronics,ES,6250.0
+DIY Electronics,FR,5800.0
+DIY Electronics,GB,2672.5
+DIY Electronics,HK,25000.0
+DIY Electronics,IE,9000.0
+DIY Electronics,IT,7500.0
+DIY Electronics,JP,1250000.0
+DIY Electronics,LU,95000.0
+DIY Electronics,MX,175000.0
+DIY Electronics,NL,10050.5
+DIY Electronics,NO,6000.0
+DIY Electronics,NZ,2500.0
+DIY Electronics,SE,60000.0
+DIY Electronics,SG,20000.0
+DIY Electronics,US,7000.0
+Dance,AT,41000.0
+Dance,AU,2000.0
+Dance,CA,4050.0
+Dance,DE,7700.0
+Dance,DK,150000.0
+Dance,FR,9495.0
+Dance,GB,1500.0
+Dance,IE,38000.0
+Dance,IT,1200.0
+Dance,MX,50000.0
+Dance,NL,3000.0
+Dance,NO,75000.0
+Dance,NZ,3000.0
+Dance,Not Specified,40000.0
+Dance,SE,10000.0
+Dance,SG,20000.0
+Dance,US,3000.0
+Design,AT,21000.0
+Design,AU,10000.0
+Design,BE,8000.0
+Design,CA,8500.0
+Design,CH,17500.0
+Design,DE,7500.0
+Design,DK,50000.0
+Design,ES,8500.0
+Design,FR,10000.0
+Design,GB,4600.0
+Design,HK,55000.0
+Design,IE,5000.0
+Design,IT,10000.0
+Design,JP,267000.0
+Design,LU,10000.0
+Design,MX,50000.0
+Design,NL,15000.0
+Design,NO,35000.0
+Design,NZ,5000.0
+Design,SE,85000.0
+Design,SG,7000.0
+Design,US,8500.0
+Digital Art,AT,7000.0
+Digital Art,AU,2000.0
+Digital Art,BE,25000.0
+Digital Art,CA,2200.0
+Digital Art,CH,675.0
+Digital Art,DE,3000.0
+Digital Art,DK,5000.0
+Digital Art,ES,275.0
+Digital Art,FR,5000.0
+Digital Art,GB,750.0
+Digital Art,HK,12000.0
+Digital Art,IE,5000.0
+Digital Art,IT,4100.0
+Digital Art,MX,50000.0
+Digital Art,NL,1650.0
+Digital Art,NZ,600.0
+Digital Art,SE,27500.0
+Digital Art,SG,100.0
+Digital Art,US,2000.0
+Documentary,AT,14000.0
+Documentary,AU,15000.0
+Documentary,BE,5000.0
+Documentary,CA,10500.0
+Documentary,CH,12000.0
+Documentary,DE,10000.0
+Documentary,DK,25000.0
+Documentary,ES,6250.0
+Documentary,FR,7250.0
+Documentary,GB,5000.0
+Documentary,HK,90000.0
+Documentary,IE,7000.0
+Documentary,IT,10000.0
+Documentary,LU,5000.0
+Documentary,MX,100000.0
+Documentary,NL,6750.0
+Documentary,NO,77500.0
+Documentary,NZ,15000.0
+Documentary,Not Specified,108.0
+Documentary,SE,77500.0
+Documentary,SG,8000.0
+Documentary,US,10000.0
+Drama,AT,52000.0
+Drama,AU,10000.0
+Drama,BE,14110.0
+Drama,CA,5750.0
+Drama,CH,10000.0
+Drama,DE,4500.0
+Drama,DK,6250.0
+Drama,ES,15000.0
+Drama,FR,1000.0
+Drama,GB,2000.0
+Drama,IE,19580.0
+Drama,IT,4600.0
+Drama,MX,49000.0
+Drama,NL,2750.0
+Drama,NO,5000.0
+Drama,NZ,1000.0
+Drama,Not Specified,3000.0
+Drama,SE,45000.0
+Drama,SG,80000.0
+Drama,US,8000.0
+Drinks,AT,30000.0
+Drinks,AU,15000.0
+Drinks,BE,8000.0
+Drinks,CA,10000.0
+Drinks,CH,12000.0
+Drinks,DE,20000.0
+Drinks,DK,82000.0
+Drinks,ES,9750.0
+Drinks,FR,11000.0
+Drinks,GB,8000.0
+Drinks,HK,27500.0
+Drinks,IE,10000.0
+Drinks,IT,50000.0
+Drinks,MX,170000.0
+Drinks,NL,5000.0
+Drinks,NO,40000.0
+Drinks,NZ,8000.0
+Drinks,SE,100000.0
+Drinks,SG,10000.0
+Drinks,US,15000.0
+Electronic Music,AT,2500.0
+Electronic Music,AU,2000.0
+Electronic Music,BE,2106.0
+Electronic Music,CA,2042.0
+Electronic Music,CH,12000.0
+Electronic Music,DE,2350.0
+Electronic Music,DK,10000.0
+Electronic Music,ES,4030.0
+Electronic Music,FR,3000.0
+Electronic Music,GB,2000.0
+Electronic Music,IE,1350.0
+Electronic Music,IT,2000.0
+Electronic Music,MX,50000.0
+Electronic Music,NL,6500.0
+Electronic Music,NO,25000.0
+Electronic Music,NZ,2174.0
+Electronic Music,SE,20000.0
+Electronic Music,SG,3000.0
+Electronic Music,US,2600.0
+Embroidery,AT,3500.0
+Embroidery,AU,300.0
+Embroidery,CA,6000.0
+Embroidery,CH,1000.0
+Embroidery,DE,9000.0
+Embroidery,GB,1700.0
+Embroidery,IE,8300.0
+Embroidery,MX,60000.0
+Embroidery,NO,1600.0
+Embroidery,SE,3500.0
+Embroidery,US,2100.0
+Events,AT,177500.0
+Events,AU,3000.0
+Events,BE,12625.0
+Events,CA,3500.0
+Events,CH,2500.0
+Events,DE,15000.0
+Events,DK,10000.0
+Events,ES,5250.0
+Events,FR,14000.0
+Events,GB,2500.0
+Events,IT,5000.0
+Events,MX,42500.0
+Events,NL,1200.0
+Events,NO,60000.0
+Events,NZ,10000.0
+Events,Not Specified,25000.0
+Events,SE,700.0
+Events,SG,15000.0
+Events,US,5000.0
+Experimental,AU,7500.0
+Experimental,BE,25000.0
+Experimental,CA,2275.0
+Experimental,CH,30275.0
+Experimental,DE,5700.0
+Experimental,DK,3750.0
+Experimental,ES,825.0
+Experimental,FR,1100.0
+Experimental,GB,1500.0
+Experimental,IE,1000.0
+Experimental,IT,3250.0
+Experimental,MX,40000.0
+Experimental,NL,5000.0
+Experimental,NO,40000.0
+Experimental,NZ,1200.0
+Experimental,SE,38000.0
+Experimental,SG,39444.0
+Experimental,US,4125.0
+Fabrication Tools,AT,45000.0
+Fabrication Tools,AU,25000.0
+Fabrication Tools,BE,77500.0
+Fabrication Tools,CA,24000.0
+Fabrication Tools,CH,4000.0
+Fabrication Tools,DE,15000.0
+Fabrication Tools,DK,4000000.0
+Fabrication Tools,ES,52500.0
+Fabrication Tools,FR,30000.0
+Fabrication Tools,GB,10000.0
+Fabrication Tools,IT,50000.0
+Fabrication Tools,MX,5249999.5
+Fabrication Tools,NL,7500.0
+Fabrication Tools,NO,1000000.0
+Fabrication Tools,NZ,8000.0
+Fabrication Tools,SG,20000.0
+Fabrication Tools,US,20000.0
+Faith,AT,600.0
+Faith,AU,5000.0
+Faith,BE,7500.0
+Faith,CA,8250.0
+Faith,DE,5500.0
+Faith,DK,15000.0
+Faith,ES,4050.0
+Faith,FR,5000.0
+Faith,GB,3000.0
+Faith,IE,3000.0
+Faith,IT,12000.0
+Faith,MX,27500.0
+Faith,NL,5500.0
+Faith,NZ,2200.0
+Faith,SE,28500.0
+Faith,US,5000.0
+Family,AU,5000.0
+Family,CA,20000.0
+Family,FR,333.0
+Family,GB,6933.5
+Family,IT,10000.0
+Family,MX,7000.0
+Family,NL,1000.0
+Family,NO,12000.0
+Family,NZ,3750.0
+Family,SE,250000.0
+Family,US,10000.0
+Fantasy,AT,50000.0
+Fantasy,AU,10000.0
+Fantasy,CA,5000.0
+Fantasy,CH,500000.0
+Fantasy,DE,8888.0
+Fantasy,DK,50000.0
+Fantasy,ES,3000.0
+Fantasy,FR,5500.0
+Fantasy,GB,4000.0
+Fantasy,IT,15000.0
+Fantasy,JP,5500000.0
+Fantasy,MX,55000.0
+Fantasy,NL,4000.0
+Fantasy,NZ,36250.0
+Fantasy,SE,120000.0
+Fantasy,US,7000.0
+Farmer's Markets,AU,9000.0
+Farmer's Markets,CA,5500.0
+Farmer's Markets,CH,250000.0
+Farmer's Markets,DE,350000.0
+Farmer's Markets,DK,30000.0
+Farmer's Markets,ES,20000.0
+Farmer's Markets,FR,30000.0
+Farmer's Markets,GB,4500.0
+Farmer's Markets,IE,8500.0
+Farmer's Markets,IT,22500.0
+Farmer's Markets,MX,330000.0
+Farmer's Markets,NL,9000.0
+Farmer's Markets,NO,350000.0
+Farmer's Markets,NZ,3500.0
+Farmer's Markets,SE,70000.0
+Farmer's Markets,SG,11000.0
+Farmer's Markets,US,6000.0
+Farms,AT,75000.0
+Farms,AU,27500.0
+Farms,BE,116000.0
+Farms,CA,10000.0
+Farms,CH,24000.0
+Farms,DE,8546.0
+Farms,DK,300000.0
+Farms,ES,20000.0
+Farms,FR,11000.0
+Farms,GB,17500.0
+Farms,IE,9000.0
+Farms,IT,21500.0
+Farms,MX,50000.0
+Farms,NL,165000.0
+Farms,NZ,20000.0
+Farms,SE,300000.0
+Farms,SG,400.0
+Farms,US,15000.0
+Fashion,AT,10000.0
+Fashion,AU,10000.0
+Fashion,BE,3750.0
+Fashion,CA,10000.0
+Fashion,CH,14000.0
+Fashion,DE,10000.0
+Fashion,DK,50000.0
+Fashion,ES,5000.0
+Fashion,FR,12250.0
+Fashion,GB,3767.5
+Fashion,HK,107500.0
+Fashion,IE,4250.0
+Fashion,IT,15000.0
+Fashion,MX,40000.0
+Fashion,NL,9250.0
+Fashion,NO,32500.0
+Fashion,NZ,13000.0
+Fashion,SE,55000.0
+Fashion,SG,8000.0
+Fashion,US,5035.0
+Festivals,AT,125.0
+Festivals,AU,5000.0
+Festivals,CA,4000.0
+Festivals,CH,5000.0
+Festivals,DE,5000.0
+Festivals,DK,4500.0
+Festivals,ES,10000.0
+Festivals,FR,2500.0
+Festivals,GB,1500.0
+Festivals,IE,2750.0
+Festivals,IT,4000.0
+Festivals,MX,65000.0
+Festivals,NL,13750.0
+Festivals,NO,26500.0
+Festivals,NZ,15000.0
+Festivals,SE,17500.0
+Festivals,US,4444.0
+Fiction,AT,6000.0
+Fiction,AU,4000.0
+Fiction,BE,8000.0
+Fiction,CA,5000.0
+Fiction,CH,6000.0
+Fiction,DE,6000.0
+Fiction,DK,36000.0
+Fiction,ES,3369.0
+Fiction,FR,3500.0
+Fiction,GB,2300.0
+Fiction,HK,20000.0
+Fiction,IE,6500.0
+Fiction,IT,2000.0
+Fiction,MX,48500.0
+Fiction,NL,4444.0
+Fiction,NO,27500.0
+Fiction,NZ,5000.0
+Fiction,Not Specified,4000.0
+Fiction,SE,36000.0
+Fiction,SG,10000.0
+Fiction,US,3500.0
+Film & Video,AT,15000.0
+Film & Video,AU,5000.0
+Film & Video,BE,6000.0
+Film & Video,CA,12000.0
+Film & Video,CH,16000.0
+Film & Video,DE,5000.0
+Film & Video,DK,4000.0
+Film & Video,ES,2500.0
+Film & Video,FR,9500.0
+Film & Video,GB,3000.0
+Film & Video,HK,60000.0
+Film & Video,IE,7000.0
+Film & Video,IT,6000.0
+Film & Video,MX,57500.0
+Film & Video,NL,5000.0
+Film & Video,NO,10000.0
+Film & Video,NZ,500.0
+Film & Video,Not Specified,3500.0
+Film & Video,SE,100000.0
+Film & Video,SG,17000.0
+Film & Video,US,8000.0
+Fine Art,AU,3250.0
+Fine Art,BE,2499.5
+Fine Art,CA,5500.0
+Fine Art,CH,16000.0
+Fine Art,DE,3000.0
+Fine Art,ES,650.0
+Fine Art,FR,5000.0
+Fine Art,GB,1500.0
+Fine Art,HK,10.0
+Fine Art,IE,2000.0
+Fine Art,IT,8100.0
+Fine Art,LU,750.0
+Fine Art,MX,47000.0
+Fine Art,NL,2250.0
+Fine Art,NO,117000.0
+Fine Art,Not Specified,500.0
+Fine Art,SE,24500.0
+Fine Art,US,3350.0
+Flight,AU,33000.0
+Flight,BE,162500.0
+Flight,CA,14000.0
+Flight,CH,60000.0
+Flight,DE,65000.0
+Flight,DK,990000.0
+Flight,ES,20000.0
+Flight,FR,10000.0
+Flight,GB,17500.0
+Flight,IT,5000.0
+Flight,MX,25000.0
+Flight,NL,45000.0
+Flight,NO,100000.0
+Flight,NZ,27000.0
+Flight,SE,916000.0
+Flight,SG,20000.0
+Flight,US,24000.0
+Food,AT,22000.0
+Food,AU,5000.0
+Food,BE,25000.0
+Food,CA,8000.0
+Food,CH,30000.0
+Food,DE,20000.0
+Food,DK,74250.0
+Food,ES,12000.0
+Food,FR,13000.0
+Food,GB,5500.0
+Food,HK,300000.0
+Food,IE,5750.0
+Food,IT,24000.0
+Food,LU,20000.0
+Food,MX,40000.0
+Food,NL,5250.0
+Food,NO,87500.0
+Food,NZ,10000.0
+Food,Not Specified,28493.0
+Food,SE,100000.0
+Food,SG,1500.0
+Food,US,10000.0
+Food Trucks,AT,15000.0
+Food Trucks,AU,20000.0
+Food Trucks,BE,20000.0
+Food Trucks,CA,22500.0
+Food Trucks,CH,50000.0
+Food Trucks,DE,25950.0
+Food Trucks,DK,50000.0
+Food Trucks,ES,12500.0
+Food Trucks,FR,10000.0
+Food Trucks,GB,10000.0
+Food Trucks,IE,13250.0
+Food Trucks,IT,25000.0
+Food Trucks,MX,150000.0
+Food Trucks,NL,10000.0
+Food Trucks,NO,50000.0
+Food Trucks,NZ,28000.0
+Food Trucks,SE,122500.0
+Food Trucks,US,15000.0
+Footwear,AT,30000.0
+Footwear,AU,20000.0
+Footwear,BE,12500.0
+Footwear,CA,17500.0
+Footwear,CH,15000.0
+Footwear,DE,14000.0
+Footwear,DK,150000.0
+Footwear,ES,15000.0
+Footwear,FR,11000.0
+Footwear,GB,8000.0
+Footwear,HK,50000.0
+Footwear,IE,22500.0
+Footwear,IT,20000.0
+Footwear,JP,946870.0
+Footwear,LU,10000.0
+Footwear,MX,150000.0
+Footwear,NL,15000.0
+Footwear,NO,37500.0
+Footwear,NZ,6000.0
+Footwear,SE,250000.0
+Footwear,SG,20000.0
+Footwear,US,15000.0
+Gadgets,AT,30000.0
+Gadgets,AU,25000.0
+Gadgets,BE,27250.0
+Gadgets,CA,25000.0
+Gadgets,CH,25000.0
+Gadgets,DE,20000.0
+Gadgets,DK,160000.0
+Gadgets,ES,35000.0
+Gadgets,FR,15000.0
+Gadgets,GB,15000.0
+Gadgets,HK,79000.0
+Gadgets,IE,40000.0
+Gadgets,IT,15000.0
+Gadgets,MX,225000.0
+Gadgets,NL,22500.0
+Gadgets,NO,550000.0
+Gadgets,NZ,12500.0
+Gadgets,SE,250000.0
+Gadgets,SG,25000.0
+Gadgets,US,25000.0
+Games,AT,13000.0
+Games,AU,10000.0
+Games,BE,5000.0
+Games,CA,7750.0
+Games,CH,8000.0
+Games,DE,7015.0
+Games,DK,57500.0
+Games,ES,5550.0
+Games,FR,5067.5
+Games,GB,5000.0
+Games,HK,15750.0
+Games,IE,5000.0
+Games,IT,10000.0
+Games,LU,75000.0
+Games,MX,50000.0
+Games,NL,3000.0
+Games,NO,55500.0
+Games,NZ,10000.0
+Games,Not Specified,1000.0
+Games,SE,60000.0
+Games,SG,60000.0
+Games,US,6000.0
+Gaming Hardware,AU,5000.0
+Gaming Hardware,BE,200.0
+Gaming Hardware,CA,5000.0
+Gaming Hardware,DE,1300.0
+Gaming Hardware,ES,25000.0
+Gaming Hardware,FR,6700.0
+Gaming Hardware,GB,1500.0
+Gaming Hardware,IE,875000.0
+Gaming Hardware,IT,15000.0
+Gaming Hardware,MX,600000.0
+Gaming Hardware,NL,20000.0
+Gaming Hardware,NO,1700000.0
+Gaming Hardware,NZ,29944.0
+Gaming Hardware,SE,100000.0
+Gaming Hardware,SG,20000.0
+Gaming Hardware,US,10000.0
+Glass,CA,5000.0
+Glass,DE,25975.0
+Glass,DK,30000.0
+Glass,GB,1300.0
+Glass,IE,5000.0
+Glass,IT,50000.0
+Glass,MX,45000.0
+Glass,US,2000.0
+Graphic Design,AT,2050.0
+Graphic Design,AU,2000.0
+Graphic Design,BE,7950.0
+Graphic Design,CA,4500.0
+Graphic Design,CH,15000.0
+Graphic Design,DE,2000.0
+Graphic Design,DK,4100.0
+Graphic Design,ES,2000.0
+Graphic Design,FR,2000.0
+Graphic Design,GB,1000.0
+Graphic Design,HK,1125.0
+Graphic Design,IE,2500.0
+Graphic Design,IT,1650.0
+Graphic Design,MX,30000.0
+Graphic Design,NL,3950.0
+Graphic Design,NO,10000.0
+Graphic Design,NZ,7000.0
+Graphic Design,SE,10000.0
+Graphic Design,SG,500.0
+Graphic Design,US,2500.0
+Graphic Novels,AT,26200.0
+Graphic Novels,AU,4250.0
+Graphic Novels,BE,8500.0
+Graphic Novels,CA,5000.0
+Graphic Novels,DE,20000.0
+Graphic Novels,DK,30000.0
+Graphic Novels,ES,5000.0
+Graphic Novels,FR,10500.0
+Graphic Novels,GB,3000.0
+Graphic Novels,HK,7822.0
+Graphic Novels,IE,10000.0
+Graphic Novels,IT,5000.0
+Graphic Novels,MX,45000.0
+Graphic Novels,NL,6750.0
+Graphic Novels,NO,59500.0
+Graphic Novels,NZ,4000.0
+Graphic Novels,SE,100000.0
+Graphic Novels,SG,15000.0
+Graphic Novels,US,5000.0
+Hardware,AT,50000.0
+Hardware,AU,40000.0
+Hardware,BE,7000.0
+Hardware,CA,34000.0
+Hardware,CH,33725.0
+Hardware,DE,37500.0
+Hardware,DK,200000.0
+Hardware,ES,10000.0
+Hardware,FR,40000.0
+Hardware,GB,20000.0
+Hardware,HK,100000.0
+Hardware,IE,65000.0
+Hardware,IT,32500.0
+Hardware,MX,50000.0
+Hardware,NL,30000.0
+Hardware,NO,300000.0
+Hardware,NZ,10000.0
+Hardware,Not Specified,200000.0
+Hardware,SE,500000.0
+Hardware,SG,33000.0
+Hardware,US,25000.0
+Hip-Hop,AT,5000.0
+Hip-Hop,AU,3000.0
+Hip-Hop,BE,2495.0
+Hip-Hop,CA,3000.0
+Hip-Hop,CH,3500.0
+Hip-Hop,DE,1850.0
+Hip-Hop,DK,7500.0
+Hip-Hop,ES,2500.0
+Hip-Hop,FR,1500.0
+Hip-Hop,GB,2050.0
+Hip-Hop,IE,1550.0
+Hip-Hop,IT,3000.0
+Hip-Hop,MX,60000.0
+Hip-Hop,NL,2120.0
+Hip-Hop,NO,8500.0
+Hip-Hop,NZ,2500.0
+Hip-Hop,Not Specified,5000.0
+Hip-Hop,SE,12000.0
+Hip-Hop,US,3800.0
+Horror,AT,3500.0
+Horror,AU,6172.5
+Horror,BE,6500.0
+Horror,CA,4000.0
+Horror,CH,3011250.0
+Horror,DE,3900.0
+Horror,DK,10000.0
+Horror,ES,800.0
+Horror,FR,2250.0
+Horror,GB,4000.0
+Horror,HK,160000.0
+Horror,IE,5000.0
+Horror,IT,3000.0
+Horror,MX,78000.0
+Horror,NL,1194.0
+Horror,NO,69000.0
+Horror,NZ,10000.0
+Horror,Not Specified,12000.0
+Horror,SE,18000.0
+Horror,US,6000.0
+Illustration,AT,1700.0
+Illustration,AU,1800.0
+Illustration,BE,1000.0
+Illustration,CA,1500.0
+Illustration,CH,1800.0
+Illustration,DE,2200.0
+Illustration,DK,1000.0
+Illustration,ES,750.0
+Illustration,FR,1100.0
+Illustration,GB,500.0
+Illustration,HK,6500.0
+Illustration,IE,2000.0
+Illustration,IT,700.0
+Illustration,MX,15000.0
+Illustration,NL,1000.0
+Illustration,NO,8000.0
+Illustration,NZ,3000.0
+Illustration,SE,11000.0
+Illustration,SG,475.0
+Illustration,US,1500.0
+Immersive,AT,56000.0
+Immersive,AU,5000.0
+Immersive,BE,2500.0
+Immersive,CA,10000.0
+Immersive,DE,600.0
+Immersive,ES,2500.0
+Immersive,FR,14000.0
+Immersive,GB,2000.0
+Immersive,MX,17000.0
+Immersive,NL,775.0
+Immersive,NZ,12500.0
+Immersive,SG,4000.0
+Immersive,US,5000.0
+Indie Rock,AU,3000.0
+Indie Rock,BE,9000.0
+Indie Rock,CA,3000.0
+Indie Rock,DE,4000.0
+Indie Rock,DK,16750.0
+Indie Rock,ES,2000.0
+Indie Rock,FR,1500.0
+Indie Rock,GB,1500.0
+Indie Rock,IE,2500.0
+Indie Rock,IT,3000.0
+Indie Rock,MX,50000.0
+Indie Rock,NL,2400.0
+Indie Rock,NO,20000.0
+Indie Rock,NZ,5612.0
+Indie Rock,SE,5000.0
+Indie Rock,US,3000.0
+Installations,AT,16000.0
+Installations,AU,5000.0
+Installations,BE,2000.0
+Installations,CA,5000.0
+Installations,CH,1000.0
+Installations,DE,16000.0
+Installations,DK,7500.0
+Installations,ES,12000.0
+Installations,FR,7500.0
+Installations,GB,1500.0
+Installations,HK,87500.0
+Installations,IT,10000.0
+Installations,LU,50000.0
+Installations,MX,120000.0
+Installations,NL,10000.0
+Installations,NZ,2750.0
+Installations,SE,32500.0
+Installations,US,5000.0
+Interactive Design,AT,25000.0
+Interactive Design,AU,11000.0
+Interactive Design,BE,25375.0
+Interactive Design,CA,10000.0
+Interactive Design,CH,50000.0
+Interactive Design,DE,30000.0
+Interactive Design,DK,267500.0
+Interactive Design,ES,20000.0
+Interactive Design,FR,27000.0
+Interactive Design,GB,13500.0
+Interactive Design,HK,30000.0
+Interactive Design,IE,157000.0
+Interactive Design,IT,39000.0
+Interactive Design,MX,35000.0
+Interactive Design,NL,26170.5
+Interactive Design,NZ,10000.0
+Interactive Design,SG,6000.0
+Interactive Design,US,9875.0
+Jazz,AT,12500.0
+Jazz,AU,3000.0
+Jazz,BE,2750.0
+Jazz,CA,5000.0
+Jazz,CH,5000.0
+Jazz,DE,3000.0
+Jazz,DK,25000.0
+Jazz,ES,1800.0
+Jazz,FR,9150.0
+Jazz,GB,2500.0
+Jazz,IE,2000.0
+Jazz,IT,10000.0
+Jazz,MX,95000.0
+Jazz,NL,6000.0
+Jazz,NO,50000.0
+Jazz,NZ,5750.0
+Jazz,SE,75000.0
+Jazz,SG,10000.0
+Jazz,US,5000.0
+Jewelry,AT,8730.0
+Jewelry,AU,6000.0
+Jewelry,BE,3750.0
+Jewelry,CA,2500.0
+Jewelry,CH,39000.0
+Jewelry,DE,10937.5
+Jewelry,DK,132500.0
+Jewelry,ES,8750.0
+Jewelry,FR,4500.0
+Jewelry,GB,2000.0
+Jewelry,HK,8000.0
+Jewelry,IE,6225.0
+Jewelry,IT,9500.0
+Jewelry,JP,600000.0
+Jewelry,MX,27500.0
+Jewelry,NL,6200.0
+Jewelry,NO,125000.0
+Jewelry,NZ,5000.0
+Jewelry,SE,55000.0
+Jewelry,SG,3500.0
+Jewelry,US,2800.0
+Journalism,AT,8800.0
+Journalism,AU,2500.0
+Journalism,BE,15000.0
+Journalism,CA,5000.0
+Journalism,DE,10000.0
+Journalism,DK,30000.0
+Journalism,ES,3000.0
+Journalism,FR,8234.5
+Journalism,GB,4000.0
+Journalism,HK,55000.0
+Journalism,IE,51250.0
+Journalism,IT,3250.0
+Journalism,MX,18000.0
+Journalism,NL,45000.0
+Journalism,NO,21950.0
+Journalism,NZ,3500.0
+Journalism,SE,70000.0
+Journalism,SG,5000.0
+Journalism,US,5000.0
+Kids,AT,2500.0
+Kids,AU,2500.0
+Kids,BE,10000.0
+Kids,CA,11000.0
+Kids,DE,1725.0
+Kids,DK,112500.0
+Kids,ES,7500.0
+Kids,FR,3500.0
+Kids,GB,2500.0
+Kids,HK,20000.0
+Kids,IT,7350.0
+Kids,MX,375000.0
+Kids,NO,7900.0
+Kids,NZ,12681.0
+Kids,SE,10000.0
+Kids,US,6000.0
+Knitting,AU,849.5
+Knitting,BE,300.0
+Knitting,CA,2000.0
+Knitting,DE,2250.0
+Knitting,DK,14500.0
+Knitting,ES,20000.0
+Knitting,GB,2250.0
+Knitting,HK,80000.0
+Knitting,IE,1500.0
+Knitting,NL,50000.0
+Knitting,NO,5000.0
+Knitting,NZ,69.0
+Knitting,US,2500.0
+Latin,AU,8100.0
+Latin,CA,3500.0
+Latin,CH,2000.0
+Latin,DE,1500.0
+Latin,ES,2900.0
+Latin,FR,10000.5
+Latin,GB,500.0
+Latin,IT,12000.0
+Latin,MX,30000.0
+Latin,NL,20750.0
+Latin,US,7900.0
+Letterpress,AU,5000.0
+Letterpress,CA,3000.0
+Letterpress,CH,6500.0
+Letterpress,DE,5000.0
+Letterpress,GB,4250.0
+Letterpress,IT,2850.0
+Letterpress,NL,500.0
+Letterpress,SG,500.0
+Letterpress,US,3500.0
+Literary Journals,AU,8000.0
+Literary Journals,BE,1000.0
+Literary Journals,CA,1900.0
+Literary Journals,DK,1000.0
+Literary Journals,ES,5500.0
+Literary Journals,FR,2000.0
+Literary Journals,GB,5000.0
+Literary Journals,IE,2500.0
+Literary Journals,MX,45000.0
+Literary Journals,NL,15000.0
+Literary Journals,NZ,3500.0
+Literary Journals,US,2600.0
+Literary Spaces,AU,22500.0
+Literary Spaces,CA,9500.0
+Literary Spaces,ES,75.0
+Literary Spaces,GB,18000.0
+Literary Spaces,MX,8000.0
+Literary Spaces,SE,25000.0
+Literary Spaces,US,9000.0
+Live Games,AT,26250.0
+Live Games,AU,5500.0
+Live Games,BE,5000.0
+Live Games,CA,7750.0
+Live Games,CH,3000.0
+Live Games,DE,10000.0
+Live Games,DK,52000.0
+Live Games,ES,11500.0
+Live Games,FR,6170.0
+Live Games,GB,4750.0
+Live Games,HK,625000.0
+Live Games,IE,10000.0
+Live Games,IT,7250.0
+Live Games,LU,138962.0
+Live Games,MX,102000.0
+Live Games,NL,8000.0
+Live Games,NO,111500.0
+Live Games,NZ,11111.0
+Live Games,SE,100000.0
+Live Games,US,10000.0
+Makerspaces,AU,22444.0
+Makerspaces,BE,293000.0
+Makerspaces,CA,20000.0
+Makerspaces,CH,1000.0
+Makerspaces,ES,20000.0
+Makerspaces,FR,8000.0
+Makerspaces,GB,6000.0
+Makerspaces,IT,40000.0
+Makerspaces,MX,85000.0
+Makerspaces,NL,45000.0
+Makerspaces,NO,350000.0
+Makerspaces,SE,40000.0
+Makerspaces,US,15000.0
+Metal,AT,7750.0
+Metal,AU,2625.0
+Metal,BE,2887.5
+Metal,CA,2500.0
+Metal,CH,6200.0
+Metal,DE,3000.0
+Metal,DK,15000.0
+Metal,ES,1600.0
+Metal,FR,1650.0
+Metal,GB,1000.0
+Metal,IE,15250.0
+Metal,IT,2500.0
+Metal,MX,23500.0
+Metal,NL,1500.0
+Metal,NO,7750.0
+Metal,NZ,1200.0
+Metal,SE,15000.0
+Metal,US,2500.0
+Mixed Media,AT,2000.0
+Mixed Media,AU,2000.0
+Mixed Media,BE,30000.0
+Mixed Media,CA,3000.0
+Mixed Media,CH,20000.0
+Mixed Media,DE,2990.0
+Mixed Media,DK,20000.0
+Mixed Media,ES,400.0
+Mixed Media,FR,3500.0
+Mixed Media,GB,1500.0
+Mixed Media,HK,48800.0
+Mixed Media,IE,1750.0
+Mixed Media,IT,4000.0
+Mixed Media,JP,300000.0
+Mixed Media,MX,65000.0
+Mixed Media,NL,5000.0
+Mixed Media,NO,11000.0
+Mixed Media,NZ,3000.0
+Mixed Media,SE,22500.0
+Mixed Media,SG,688.0
+Mixed Media,US,3000.0
+Mobile Games,AT,13500.0
+Mobile Games,AU,10000.0
+Mobile Games,BE,10000.0
+Mobile Games,CA,8000.0
+Mobile Games,CH,7500.0
+Mobile Games,DE,5250.0
+Mobile Games,DK,70000.0
+Mobile Games,ES,3000.0
+Mobile Games,FR,3200.0
+Mobile Games,GB,3000.0
+Mobile Games,HK,350000.0
+Mobile Games,IE,600.0
+Mobile Games,IT,5250.0
+Mobile Games,JP,6165000.0
+Mobile Games,LU,2000.0
+Mobile Games,MX,30000.0
+Mobile Games,NL,5000.0
+Mobile Games,NO,32500.0
+Mobile Games,NZ,10000.0
+Mobile Games,SE,54095.5
+Mobile Games,SG,3500.0
+Mobile Games,US,10000.0
+Movie Theaters,AU,15000.0
+Movie Theaters,CA,25000.0
+Movie Theaters,CH,3850.0
+Movie Theaters,DE,41500.0
+Movie Theaters,FR,9000.0
+Movie Theaters,GB,6000.0
+Movie Theaters,IE,15000.0
+Movie Theaters,IT,30000.0
+Movie Theaters,MX,65000.0
+Movie Theaters,SE,30000.0
+Movie Theaters,SG,500000.0
+Movie Theaters,US,40000.0
+Music,AT,5600.0
+Music,AU,5750.0
+Music,BE,3000.0
+Music,CA,5000.0
+Music,CH,15000.0
+Music,DE,8000.0
+Music,DK,10000.0
+Music,ES,5750.0
+Music,FR,7000.0
+Music,GB,2500.0
+Music,IE,5250.0
+Music,IT,6000.0
+Music,LU,3000.0
+Music,MX,60000.0
+Music,NL,5000.0
+Music,NO,30000.0
+Music,NZ,3000.0
+Music,Not Specified,3500.0
+Music,SE,30000.0
+Music,SG,55000.0
+Music,US,5000.0
+Music Videos,AT,3000.0
+Music Videos,AU,3000.0
+Music Videos,CA,3500.0
+Music Videos,CH,3750.0
+Music Videos,DE,2500.0
+Music Videos,DK,7500.0
+Music Videos,ES,60.0
+Music Videos,FR,1500.0
+Music Videos,GB,1225.0
+Music Videos,IT,500.0
+Music Videos,MX,42710.0
+Music Videos,NL,3500.0
+Music Videos,NO,22500.0
+Music Videos,NZ,2500.0
+Music Videos,SE,15750.0
+Music Videos,US,4000.0
+Musical,AU,8750.0
+Musical,CA,2500.0
+Musical,CH,2500.0
+Musical,DE,5000.0
+Musical,DK,24999.5
+Musical,ES,20000.0
+Musical,GB,2450.0
+Musical,IE,4425.0
+Musical,IT,50000.0
+Musical,MX,65000.0
+Musical,NL,4500.0
+Musical,NO,30000.0
+Musical,NZ,7500.0
+Musical,SE,24750.0
+Musical,SG,2750.0
+Musical,US,5500.0
+Narrative Film,AT,15000.0
+Narrative Film,AU,17102.0
+Narrative Film,BE,6000.0
+Narrative Film,CA,10000.0
+Narrative Film,CH,7000.0
+Narrative Film,DE,4200.0
+Narrative Film,DK,20500.0
+Narrative Film,ES,375.0
+Narrative Film,FR,10000.0
+Narrative Film,GB,6000.0
+Narrative Film,IE,8250.0
+Narrative Film,IT,17500.0
+Narrative Film,MX,200000.0
+Narrative Film,NL,13750.0
+Narrative Film,NZ,52326.0
+Narrative Film,Not Specified,6440.0
+Narrative Film,SE,90727.5
+Narrative Film,SG,2000.0
+Narrative Film,US,10500.0
+Nature,AT,1750.0
+Nature,AU,5000.0
+Nature,BE,10000.0
+Nature,CA,2800.0
+Nature,DE,3500.0
+Nature,DK,5000.0
+Nature,ES,35000.0
+Nature,FR,2500.0
+Nature,GB,1000.0
+Nature,IT,2400.0
+Nature,MX,40000.0
+Nature,NL,1000.0
+Nature,NO,40000.0
+Nature,NZ,1000.0
+Nature,SE,20000.0
+Nature,SG,9100.0
+Nature,US,3000.0
+Nonfiction,AT,5800.0
+Nonfiction,AU,7750.0
+Nonfiction,BE,3456.0
+Nonfiction,CA,6797.5
+Nonfiction,CH,12240.0
+Nonfiction,DE,10800.0
+Nonfiction,DK,30000.0
+Nonfiction,ES,3497.5
+Nonfiction,FR,5500.0
+Nonfiction,GB,3925.0
+Nonfiction,HK,40000.0
+Nonfiction,IE,3750.0
+Nonfiction,IT,8400.0
+Nonfiction,LU,1607.5
+Nonfiction,MX,25000.0
+Nonfiction,NL,5000.0
+Nonfiction,NO,50000.0
+Nonfiction,NZ,8000.0
+Nonfiction,Not Specified,3000.0
+Nonfiction,SE,65000.0
+Nonfiction,SG,15000.0
+Nonfiction,US,5000.0
+Painting,AT,5000.0
+Painting,AU,3000.0
+Painting,BE,2000.0
+Painting,CA,2500.0
+Painting,CH,4400.0
+Painting,DE,4850.0
+Painting,DK,1600.0
+Painting,ES,3250.0
+Painting,FR,2250.0
+Painting,GB,1500.0
+Painting,HK,45400.0
+Painting,IE,1800.0
+Painting,IT,4500.0
+Painting,MX,55000.0
+Painting,NL,4250.0
+Painting,NO,5000.0
+Painting,NZ,4000.0
+Painting,SE,18000.0
+Painting,US,3000.0
+People,AT,26650.0
+People,AU,8000.0
+People,BE,6500.0
+People,CA,3400.0
+People,CH,10000.0
+People,DE,4750.0
+People,DK,3000.0
+People,ES,2900.0
+People,FR,3550.0
+People,GB,3500.0
+People,HK,180000.0
+People,IE,21750.0
+People,IT,4150.0
+People,MX,35000.0
+People,NL,3500.0
+People,NO,100000.0
+People,NZ,5000.0
+People,SE,25000.0
+People,SG,4000.0
+People,US,4000.0
+Performance Art,AT,105000.0
+Performance Art,AU,5500.0
+Performance Art,BE,775.0
+Performance Art,CA,3685.0
+Performance Art,CH,8000.0
+Performance Art,DE,10000.0
+Performance Art,DK,35000.0
+Performance Art,ES,1000.0
+Performance Art,FR,2000.0
+Performance Art,GB,1500.0
+Performance Art,IE,1400.0
+Performance Art,IT,3000.0
+Performance Art,MX,45000.0
+Performance Art,NL,4250.0
+Performance Art,NO,17500.0
+Performance Art,NZ,3250.0
+Performance Art,SE,11000.0
+Performance Art,SG,30000.0
+Performance Art,US,3000.0
+Performances,AT,5000.0
+Performances,AU,2000.0
+Performances,BE,200.0
+Performances,CA,3600.0
+Performances,CH,640.0
+Performances,DE,1750.0
+Performances,ES,1650.0
+Performances,FR,6000.0
+Performances,GB,1500.0
+Performances,HK,45000.0
+Performances,IE,6250.0
+Performances,MX,35000.0
+Performances,NL,1400.0
+Performances,NO,43000.0
+Performances,NZ,21000.0
+Performances,SE,2250.0
+Performances,US,4000.0
+Periodicals,AT,2850.0
+Periodicals,AU,5000.0
+Periodicals,BE,10000.0
+Periodicals,CA,7250.0
+Periodicals,CH,7000.0
+Periodicals,DE,4500.0
+Periodicals,DK,56500.0
+Periodicals,ES,5099.5
+Periodicals,FR,4250.0
+Periodicals,GB,5000.0
+Periodicals,IE,5500.0
+Periodicals,IT,12000.0
+Periodicals,MX,64995.0
+Periodicals,NL,9000.0
+Periodicals,NO,35000.0
+Periodicals,NZ,22500.0
+Periodicals,SE,235000.0
+Periodicals,US,5500.0
+Pet Fashion,AT,8000.0
+Pet Fashion,AU,4500.0
+Pet Fashion,CA,10000.0
+Pet Fashion,DE,7937.5
+Pet Fashion,ES,32500.0
+Pet Fashion,GB,1000.0
+Pet Fashion,IT,20500.0
+Pet Fashion,SE,48000.0
+Pet Fashion,US,5000.0
+Photo,AT,4000.0
+Photo,AU,1500.0
+Photo,BE,2250.0
+Photo,CA,9500.0
+Photo,CH,2100.0
+Photo,DE,1750.0
+Photo,DK,20000.0
+Photo,ES,1125.0
+Photo,FR,2500.0
+Photo,GB,4500.0
+Photo,IE,5000.0
+Photo,IT,25000.0
+Photo,NL,5750.0
+Photo,NO,70000.0
+Photo,NZ,5000.0
+Photo,SE,13000.0
+Photo,US,4000.0
+Photobooks,AT,4500.0
+Photobooks,AU,5000.0
+Photobooks,BE,2874.5
+Photobooks,CA,5750.0
+Photobooks,CH,25000.0
+Photobooks,DE,5000.0
+Photobooks,DK,35000.0
+Photobooks,ES,4000.0
+Photobooks,FR,6000.0
+Photobooks,GB,5000.0
+Photobooks,HK,80000.0
+Photobooks,IE,10230.0
+Photobooks,IT,5000.0
+Photobooks,JP,300000.0
+Photobooks,LU,8325.0
+Photobooks,MX,87750.0
+Photobooks,NL,6750.0
+Photobooks,NO,89000.0
+Photobooks,NZ,3250.0
+Photobooks,SE,60000.0
+Photobooks,SG,27500.0
+Photobooks,US,6600.0
+Photography,AT,4000.0
+Photography,AU,4000.0
+Photography,BE,1300.0
+Photography,CA,5000.0
+Photography,CH,8100.0
+Photography,DE,5000.0
+Photography,DK,35000.0
+Photography,ES,4000.0
+Photography,FR,4000.0
+Photography,GB,2000.0
+Photography,IE,3000.0
+Photography,IT,6000.0
+Photography,LU,1000.0
+Photography,MX,53348.0
+Photography,NL,3000.0
+Photography,NO,40000.0
+Photography,NZ,5000.0
+Photography,SE,30000.0
+Photography,SG,4000.0
+Photography,US,4000.0
+Places,AT,24000.0
+Places,AU,1750.0
+Places,BE,2750.0
+Places,CA,4000.0
+Places,CH,20133.0
+Places,DE,1750.0
+Places,DK,79000.0
+Places,ES,3000.0
+Places,FR,5000.0
+Places,GB,1567.5
+Places,HK,2000.0
+Places,IE,10000.0
+Places,IT,3000.0
+Places,LU,2000.0
+Places,MX,90000.0
+Places,NL,1500.0
+Places,NO,128500.0
+Places,NZ,3000.0
+Places,SE,15000.0
+Places,US,3000.0
+Playing Cards,AT,8000.0
+Playing Cards,AU,10000.0
+Playing Cards,BE,5000.0
+Playing Cards,CA,7000.0
+Playing Cards,CH,10750.0
+Playing Cards,DE,5000.0
+Playing Cards,DK,50000.0
+Playing Cards,ES,5500.0
+Playing Cards,FR,7000.0
+Playing Cards,GB,4500.0
+Playing Cards,HK,31200.0
+Playing Cards,IE,5000.0
+Playing Cards,IT,6250.0
+Playing Cards,MX,315000.0
+Playing Cards,NL,6500.0
+Playing Cards,NO,25000.0
+Playing Cards,NZ,9100.0
+Playing Cards,Not Specified,25000.0
+Playing Cards,SE,40000.0
+Playing Cards,SG,8000.0
+Playing Cards,US,6000.0
+Plays,AT,7775.0
+Plays,AU,5000.0
+Plays,CA,2500.0
+Plays,CH,5000.0
+Plays,DE,15000.0
+Plays,DK,2500.0
+Plays,ES,8400.0
+Plays,FR,2000.0
+Plays,GB,2000.0
+Plays,IE,3625.0
+Plays,IT,2450.0
+Plays,JP,500000.0
+Plays,LU,3500.0
+Plays,MX,50000.0
+Plays,NL,850.0
+Plays,NO,15000.0
+Plays,NZ,3500.0
+Plays,SE,100000.0
+Plays,SG,54500.0
+Plays,US,3300.0
+Poetry,AT,250.0
+Poetry,AU,1900.0
+Poetry,BE,1000.0
+Poetry,CA,3100.0
+Poetry,CH,2000.0
+Poetry,DE,6627.5
+Poetry,DK,17000.0
+Poetry,ES,1100.0
+Poetry,FR,1250.0
+Poetry,GB,875.0
+Poetry,IE,1200.0
+Poetry,IT,4000.0
+Poetry,MX,20000.0
+Poetry,NL,5000.0
+Poetry,NO,22500.0
+Poetry,NZ,5500.0
+Poetry,SE,35000.0
+Poetry,SG,1000.0
+Poetry,US,2000.0
+Pop,AT,6450.0
+Pop,AU,8000.0
+Pop,BE,5000.0
+Pop,CA,5000.0
+Pop,CH,2000.0
+Pop,DE,4000.0
+Pop,DK,10000.0
+Pop,ES,4000.0
+Pop,FR,4500.0
+Pop,GB,2000.0
+Pop,IE,4000.0
+Pop,IT,7500.0
+Pop,LU,12500.0
+Pop,MX,32750.0
+Pop,NL,2750.0
+Pop,NO,35000.0
+Pop,NZ,5500.0
+Pop,SE,42000.0
+Pop,SG,7500.0
+Pop,US,5000.0
+Pottery,AU,5500.0
+Pottery,BE,5000.0
+Pottery,CA,1361.0
+Pottery,DE,4700.0
+Pottery,ES,1000.0
+Pottery,GB,2100.0
+Pottery,IE,1000.0
+Pottery,IT,3750.0
+Pottery,MX,35000.0
+Pottery,NO,31250.0
+Pottery,NZ,3912.0
+Pottery,SG,25000.0
+Pottery,US,4500.0
+Print,AT,37625.0
+Print,AU,7000.0
+Print,BE,80000.0
+Print,CA,4500.0
+Print,CH,12800.0
+Print,DE,3000.0
+Print,DK,17500.0
+Print,ES,7500.0
+Print,FR,3500.0
+Print,GB,2500.0
+Print,IE,24000.0
+Print,IT,4250.0
+Print,MX,102500.0
+Print,NL,5000.0
+Print,NO,25000.0
+Print,NZ,3000.0
+Print,Not Specified,15000.0
+Print,SE,50000.0
+Print,US,5000.0
+Printing,AU,5000.0
+Printing,BE,1100.0
+Printing,CA,11500.0
+Printing,CH,2500.0
+Printing,DE,2500.0
+Printing,DK,15000.0
+Printing,ES,20000.0
+Printing,FR,1000.0
+Printing,GB,1500.0
+Printing,HK,7000.0
+Printing,IE,300.0
+Printing,IT,15000.0
+Printing,MX,247500.0
+Printing,NL,1350.0
+Printing,NO,55555.0
+Printing,NZ,25000.0
+Printing,SE,9000.0
+Printing,SG,4000.0
+Printing,US,2000.0
+Product Design,AT,19500.0
+Product Design,AU,15000.0
+Product Design,BE,15000.0
+Product Design,CA,14000.0
+Product Design,CH,25000.0
+Product Design,DE,14000.0
+Product Design,DK,80000.0
+Product Design,ES,12000.0
+Product Design,FR,12000.0
+Product Design,GB,10000.0
+Product Design,HK,88000.0
+Product Design,IE,15000.0
+Product Design,IT,15000.0
+Product Design,JP,1065000.0
+Product Design,LU,9500.0
+Product Design,MX,72500.0
+Product Design,NL,15000.0
+Product Design,NO,120000.0
+Product Design,NZ,18000.0
+Product Design,Not Specified,15000.0
+Product Design,SE,135000.0
+Product Design,SG,10000.0
+Product Design,US,12237.5
+Public Art,AT,2250.0
+Public Art,AU,9400.0
+Public Art,BE,625.0
+Public Art,CA,5000.0
+Public Art,CH,5000.0
+Public Art,DE,3800.0
+Public Art,DK,32500.0
+Public Art,ES,7500.0
+Public Art,FR,3000.0
+Public Art,GB,3000.0
+Public Art,IE,10000.0
+Public Art,IT,18000.0
+Public Art,LU,50000.0
+Public Art,MX,80000.0
+Public Art,NL,2000.0
+Public Art,NO,20000.0
+Public Art,NZ,6305.0
+Public Art,SE,10000.0
+Public Art,SG,10000.0
+Public Art,US,4000.0
+Publishing,AT,6100.0
+Publishing,AU,8250.0
+Publishing,BE,5000.0
+Publishing,CA,6899.5
+Publishing,CH,14000.0
+Publishing,DE,10000.0
+Publishing,DK,20000.0
+Publishing,ES,7000.0
+Publishing,FR,9000.0
+Publishing,GB,4000.0
+Publishing,HK,50000.0
+Publishing,IE,8000.0
+Publishing,IT,6000.0
+Publishing,LU,3000.0
+Publishing,MX,48500.0
+Publishing,NL,5000.0
+Publishing,NO,70000.0
+Publishing,NZ,11000.0
+Publishing,Not Specified,4000.0
+Publishing,SE,50000.0
+Publishing,SG,5000.0
+Publishing,US,5000.0
+Punk,AU,1600.0
+Punk,CA,2200.0
+Punk,DE,20.0
+Punk,DK,6000.0
+Punk,ES,1875.0
+Punk,FR,2000.0
+Punk,GB,1000.0
+Punk,IE,3000.0
+Punk,IT,500.0
+Punk,MX,21000.0
+Punk,NL,300.0
+Punk,NZ,1500.0
+Punk,SE,15000.0
+Punk,US,2000.0
+Puzzles,AT,50000.0
+Puzzles,AU,6000.0
+Puzzles,CA,1875.0
+Puzzles,DE,3000.0
+Puzzles,DK,150000.0
+Puzzles,FR,50.0
+Puzzles,GB,10000.0
+Puzzles,JP,1500000.0
+Puzzles,NL,12500.0
+Puzzles,NZ,21500.0
+Puzzles,US,5000.0
+Quilts,AU,34500.0
+Quilts,CA,2000.0
+Quilts,DE,50000.0
+Quilts,GB,1000.0
+Quilts,US,6250.0
+R&B,AU,5000.0
+R&B,CA,4000.0
+R&B,DE,7500.0
+R&B,ES,2825.0
+R&B,FR,1825.0
+R&B,GB,2250.0
+R&B,IT,5250.0
+R&B,MX,12000.0
+R&B,NL,12600.0
+R&B,NZ,4372.5
+R&B,US,5000.0
+Radio & Podcasts,AU,5000.0
+Radio & Podcasts,CA,5500.0
+Radio & Podcasts,CH,8888.0
+Radio & Podcasts,DE,69.0
+Radio & Podcasts,DK,31940.0
+Radio & Podcasts,FR,10000.0
+Radio & Podcasts,GB,2500.0
+Radio & Podcasts,IE,350.0
+Radio & Podcasts,IT,643.5
+Radio & Podcasts,MX,30000.0
+Radio & Podcasts,NL,150000.0
+Radio & Podcasts,NO,16000.0
+Radio & Podcasts,NZ,2250.0
+Radio & Podcasts,SE,6000.0
+Radio & Podcasts,US,3000.0
+Ready-to-wear,AT,15000.0
+Ready-to-wear,AU,10000.0
+Ready-to-wear,BE,12000.0
+Ready-to-wear,CA,7000.0
+Ready-to-wear,CH,21000.0
+Ready-to-wear,DE,8000.0
+Ready-to-wear,DK,50000.0
+Ready-to-wear,ES,6500.0
+Ready-to-wear,FR,10000.0
+Ready-to-wear,GB,4500.0
+Ready-to-wear,IE,4000.0
+Ready-to-wear,IT,12500.0
+Ready-to-wear,LU,20000.0
+Ready-to-wear,MX,92500.0
+Ready-to-wear,NL,10000.0
+Ready-to-wear,NO,20000.0
+Ready-to-wear,NZ,5100.0
+Ready-to-wear,SE,35000.0
+Ready-to-wear,SG,16545.5
+Ready-to-wear,US,6800.0
+Residencies,AU,2500.0
+Residencies,CA,250500.0
+Residencies,DK,30000.0
+Residencies,GB,1250.0
+Residencies,IT,3500.0
+Residencies,MX,37000.0
+Residencies,NL,4250.0
+Residencies,SE,10000.0
+Residencies,US,4500.0
+Restaurants,AT,42500.0
+Restaurants,AU,30000.0
+Restaurants,BE,1000000.0
+Restaurants,CA,20000.0
+Restaurants,CH,60000.0
+Restaurants,DE,50000.0
+Restaurants,DK,167500.0
+Restaurants,ES,45000.0
+Restaurants,FR,34500.0
+Restaurants,GB,20000.0
+Restaurants,HK,70000.0
+Restaurants,IE,35000.0
+Restaurants,IT,50000.0
+Restaurants,LU,26000.0
+Restaurants,MX,150000.0
+Restaurants,NL,25000.0
+Restaurants,NO,325000.0
+Restaurants,NZ,25000.0
+Restaurants,Not Specified,10500.0
+Restaurants,SE,62500.0
+Restaurants,SG,7000.0
+Restaurants,US,25000.0
+Robots,AT,75000.0
+Robots,AU,20000.0
+Robots,BE,9990.0
+Robots,CA,25000.0
+Robots,CH,1200.0
+Robots,DE,14500.0
+Robots,DK,22500.0
+Robots,ES,10000.0
+Robots,FR,30000.0
+Robots,GB,6000.0
+Robots,HK,250000.0
+Robots,IE,70000.0
+Robots,IT,60000.0
+Robots,MX,115238.5
+Robots,NL,27749.5
+Robots,NZ,2600.0
+Robots,SE,35000.0
+Robots,SG,100.0
+Robots,US,15000.0
+Rock,AT,3350.0
+Rock,AU,4500.0
+Rock,BE,6750.0
+Rock,CA,3500.0
+Rock,CH,10000.0
+Rock,DE,3000.0
+Rock,DK,15000.0
+Rock,ES,2200.0
+Rock,FR,2500.0
+Rock,GB,2000.0
+Rock,HK,185000.0
+Rock,IE,9500.0
+Rock,IT,2250.0
+Rock,LU,1301.0
+Rock,MX,55000.0
+Rock,NL,1625.0
+Rock,NO,30000.0
+Rock,NZ,2250.0
+Rock,SE,23500.0
+Rock,US,3000.0
+Romance,AT,2000.0
+Romance,AU,4500.0
+Romance,BE,3750.0
+Romance,CA,4000.0
+Romance,DE,13400.0
+Romance,DK,45000.0
+Romance,ES,102000.0
+Romance,GB,3600.0
+Romance,IE,3000.0
+Romance,MX,19000.0
+Romance,NL,75000.0
+Romance,SE,15000.0
+Romance,US,9500.0
+Science Fiction,AU,5750.0
+Science Fiction,BE,5000.0
+Science Fiction,CA,5750.0
+Science Fiction,CH,4075.0
+Science Fiction,DE,29000.0
+Science Fiction,DK,107500.0
+Science Fiction,ES,7850.0
+Science Fiction,FR,5000.0
+Science Fiction,GB,3515.0
+Science Fiction,HK,250000.0
+Science Fiction,IE,750.0
+Science Fiction,IT,18000.0
+Science Fiction,MX,79000.0
+Science Fiction,NL,3875.0
+Science Fiction,NZ,8150.0
+Science Fiction,SE,245000.0
+Science Fiction,US,10000.0
+Sculpture,AU,5000.0
+Sculpture,BE,6500.0
+Sculpture,CA,4724.0
+Sculpture,CH,16000.0
+Sculpture,DE,4014.5
+Sculpture,DK,100000.0
+Sculpture,ES,5595.0
+Sculpture,FR,7000.0
+Sculpture,GB,2500.0
+Sculpture,HK,43300.0
+Sculpture,IE,347.5
+Sculpture,IT,2000.0
+Sculpture,MX,85000.0
+Sculpture,NL,3500.0
+Sculpture,NO,112500.0
+Sculpture,NZ,3115.0
+Sculpture,SE,45000.0
+Sculpture,SG,1000.0
+Sculpture,US,3500.0
+Shorts,AT,2500.0
+Shorts,AU,4800.0
+Shorts,BE,1775.0
+Shorts,CA,3500.0
+Shorts,CH,3800.0
+Shorts,DE,2000.0
+Shorts,DK,6000.0
+Shorts,ES,2250.0
+Shorts,FR,2400.0
+Shorts,GB,1500.0
+Shorts,IE,3100.0
+Shorts,IT,2000.0
+Shorts,MX,50000.0
+Shorts,NL,1375.0
+Shorts,NO,42500.0
+Shorts,NZ,4400.0
+Shorts,SE,10000.0
+Shorts,SG,10000.0
+Shorts,US,3500.0
+Small Batch,AT,10000.0
+Small Batch,AU,4300.0
+Small Batch,BE,15000.0
+Small Batch,CA,4250.0
+Small Batch,CH,46000.0
+Small Batch,DE,8950.0
+Small Batch,DK,30050.0
+Small Batch,ES,3250.0
+Small Batch,FR,10000.0
+Small Batch,GB,3500.0
+Small Batch,HK,60000.0
+Small Batch,IE,4500.0
+Small Batch,IT,4500.0
+Small Batch,MX,48000.0
+Small Batch,NL,1475.0
+Small Batch,NO,25110.0
+Small Batch,NZ,5750.0
+Small Batch,SE,5100.0
+Small Batch,SG,12000.0
+Small Batch,US,5000.0
+Software,AT,10000.0
+Software,AU,15000.0
+Software,BE,7000.0
+Software,CA,14500.0
+Software,CH,20000.0
+Software,DE,10000.0
+Software,DK,125000.0
+Software,ES,15000.0
+Software,FR,20000.0
+Software,GB,12000.0
+Software,HK,300000.0
+Software,IE,11500.0
+Software,IT,25000.0
+Software,JP,5650000.0
+Software,MX,150000.0
+Software,NL,13750.0
+Software,NO,155000.0
+Software,NZ,14900.0
+Software,Not Specified,50250.0
+Software,SE,135000.0
+Software,SG,2000.0
+Software,US,15000.0
+Sound,AT,22222.0
+Sound,AU,15000.0
+Sound,BE,8000.0
+Sound,CA,27500.0
+Sound,CH,30000.0
+Sound,DE,20000.0
+Sound,DK,105000.0
+Sound,ES,25000.0
+Sound,FR,50000.0
+Sound,GB,20000.0
+Sound,HK,100000.0
+Sound,IE,18000.0
+Sound,IT,20500.0
+Sound,MX,1227500.0
+Sound,NL,10000.0
+Sound,NO,5100.0
+Sound,NZ,8500.0
+Sound,SE,200000.0
+Sound,US,20000.0
+Space Exploration,AU,65000.0
+Space Exploration,BE,3000.0
+Space Exploration,CA,10750.0
+Space Exploration,CH,8000.0
+Space Exploration,DE,11000.0
+Space Exploration,DK,4000.0
+Space Exploration,ES,2000.0
+Space Exploration,FR,50000.0
+Space Exploration,GB,3000.0
+Space Exploration,IT,4500.0
+Space Exploration,MX,12000.0
+Space Exploration,NL,1525.0
+Space Exploration,NZ,5005.0
+Space Exploration,SE,29181.0
+Space Exploration,SG,13000.0
+Space Exploration,US,12000.0
+Spaces,AT,50000.0
+Spaces,AU,10000.0
+Spaces,CA,10000.0
+Spaces,CH,16000.0
+Spaces,DE,10000.0
+Spaces,DK,2500000.0
+Spaces,ES,20000.0
+Spaces,FR,4200.0
+Spaces,GB,10000.0
+Spaces,IE,9500.0
+Spaces,IT,20000.0
+Spaces,MX,70000.0
+Spaces,NL,1300000.0
+Spaces,NO,225000.0
+Spaces,NZ,10000.0
+Spaces,SE,175000.0
+Spaces,US,15000.0
+Stationery,AU,900.0
+Stationery,CA,1000.0
+Stationery,CH,50000.0
+Stationery,DE,1500.0
+Stationery,ES,1650.0
+Stationery,FR,800.0
+Stationery,GB,700.0
+Stationery,HK,50500.0
+Stationery,IE,150.0
+Stationery,IT,1000.0
+Stationery,NZ,7500.0
+Stationery,SG,225.0
+Stationery,US,1500.0
+Tabletop Games,AT,5000.0
+Tabletop Games,AU,7550.0
+Tabletop Games,BE,8000.0
+Tabletop Games,CA,9000.0
+Tabletop Games,CH,16450.0
+Tabletop Games,DE,6000.0
+Tabletop Games,DK,50000.0
+Tabletop Games,ES,5000.0
+Tabletop Games,FR,7000.0
+Tabletop Games,GB,3500.0
+Tabletop Games,HK,65000.0
+Tabletop Games,IE,9500.0
+Tabletop Games,IT,5000.0
+Tabletop Games,JP,1000000.0
+Tabletop Games,LU,6000.0
+Tabletop Games,MX,60000.0
+Tabletop Games,NL,6000.0
+Tabletop Games,NO,72500.0
+Tabletop Games,NZ,5000.0
+Tabletop Games,Not Specified,4350.0
+Tabletop Games,SE,50000.0
+Tabletop Games,SG,10000.0
+Tabletop Games,US,7500.0
+Taxidermy,AU,10000.0
+Taxidermy,GB,2750.0
+Taxidermy,US,4650.0
+Technology,AT,55000.0
+Technology,AU,20000.0
+Technology,BE,33625.0
+Technology,CA,25000.0
+Technology,CH,40000.0
+Technology,DE,30000.0
+Technology,DK,220000.0
+Technology,ES,30000.0
+Technology,FR,30000.0
+Technology,GB,15000.0
+Technology,HK,180000.0
+Technology,IE,42500.0
+Technology,IT,35000.0
+Technology,JP,1000000.0
+Technology,LU,50000.0
+Technology,MX,100000.0
+Technology,NL,25000.0
+Technology,NO,150000.0
+Technology,NZ,40000.0
+Technology,Not Specified,1300000.0
+Technology,SE,200000.0
+Technology,SG,30000.0
+Technology,US,20000.0
+Television,AT,998400.0
+Television,AU,27500.0
+Television,CA,25000.0
+Television,CH,50000000.0
+Television,DE,39750.0
+Television,ES,20000.0
+Television,FR,35000.0
+Television,GB,7000.0
+Television,IT,20000.0
+Television,NL,5500.0
+Television,NO,125000.0
+Television,NZ,5000.0
+Television,SE,55000.0
+Television,US,15000.0
+Textiles,AU,1000.0
+Textiles,BE,400.0
+Textiles,CA,4250.0
+Textiles,CH,19200.0
+Textiles,DE,8000.0
+Textiles,DK,5000.0
+Textiles,ES,500.0
+Textiles,FR,1500.0
+Textiles,GB,900.0
+Textiles,HK,27500.0
+Textiles,IT,6525.0
+Textiles,MX,60250.0
+Textiles,NL,5000.0
+Textiles,NO,10000.0
+Textiles,NZ,28850.0
+Textiles,SE,17618.0
+Textiles,SG,500.0
+Textiles,US,4357.0
+Theater,AT,12000.0
+Theater,AU,10000.0
+Theater,BE,2300.0
+Theater,CA,3000.0
+Theater,CH,3360.0
+Theater,DE,1500.0
+Theater,DK,11000.0
+Theater,ES,8100.0
+Theater,FR,4200.0
+Theater,GB,1750.0
+Theater,IE,3500.0
+Theater,IT,3000.0
+Theater,LU,3000.0
+Theater,MX,45000.0
+Theater,NL,3500.0
+Theater,NO,100024.0
+Theater,NZ,1250.0
+Theater,Not Specified,25000.0
+Theater,SE,20000.0
+Theater,US,3000.0
+Thrillers,AU,8000.0
+Thrillers,CA,9900.0
+Thrillers,CH,500000.0
+Thrillers,DE,3750.0
+Thrillers,DK,5000.0
+Thrillers,ES,600.0
+Thrillers,FR,2500.0
+Thrillers,GB,2250.0
+Thrillers,IE,4000.0
+Thrillers,IT,43300.0
+Thrillers,MX,46000.0
+Thrillers,NL,9000.0
+Thrillers,NO,90000.0
+Thrillers,NZ,56000.0
+Thrillers,SE,25000.0
+Thrillers,SG,10000.0
+Thrillers,US,7500.0
+Translations,AT,6500.0
+Translations,AU,17000.0
+Translations,BE,1200.0
+Translations,CA,2612.5
+Translations,CH,30000.0
+Translations,DE,5000.0
+Translations,DK,37000.0
+Translations,ES,1750.0
+Translations,FR,8500.0
+Translations,GB,6300.0
+Translations,HK,15000.0
+Translations,IT,5000.0
+Translations,MX,75000.0
+Translations,NL,4500.0
+Translations,NO,50000.0
+Translations,NZ,25000.0
+Translations,SE,160000.0
+Translations,US,6000.0
+Typography,AT,2500.0
+Typography,AU,10000.0
+Typography,CA,3000.0
+Typography,CH,3500.0
+Typography,DE,1433.0
+Typography,ES,50.0
+Typography,FR,12000.0
+Typography,GB,2750.0
+Typography,IT,20000.0
+Typography,NZ,1500.0
+Typography,SE,75000.0
+Typography,SG,5000.0
+Typography,US,5000.0
+Vegan,AT,2000.0
+Vegan,AU,10000.0
+Vegan,CA,11000.0
+Vegan,CH,13000.0
+Vegan,DE,10000.0
+Vegan,DK,44000.0
+Vegan,ES,18000.0
+Vegan,FR,8000.0
+Vegan,GB,5000.0
+Vegan,IE,26250.0
+Vegan,IT,10000.0
+Vegan,MX,75000.0
+Vegan,NL,15000.0
+Vegan,NO,100000.0
+Vegan,NZ,10000.0
+Vegan,SE,87500.0
+Vegan,SG,66600.0
+Vegan,US,10000.0
+Video,AT,35000.0
+Video,AU,7000.0
+Video,BE,40000.0
+Video,CA,5000.0
+Video,CH,9952.0
+Video,DE,5000.0
+Video,DK,15000.0
+Video,ES,7000.0
+Video,FR,25350.0
+Video,GB,3500.0
+Video,IE,20000.0
+Video,IT,8750.0
+Video,MX,80000.0
+Video,NL,7500.0
+Video,NO,150000.0
+Video,NZ,20000.0
+Video,SE,65000.0
+Video,US,6000.0
+Video Art,AU,10000.0
+Video Art,CA,1375.0
+Video Art,CH,300.0
+Video Art,DE,2900.0
+Video Art,ES,233.0
+Video Art,FR,20000.0
+Video Art,GB,3750.0
+Video Art,IE,4050.0
+Video Art,IT,20000.0
+Video Art,MX,27500.0
+Video Art,NL,1625.0
+Video Art,NO,12000.0
+Video Art,NZ,1000.0
+Video Art,US,4000.0
+Video Games,AT,10000.0
+Video Games,AU,10000.0
+Video Games,BE,12500.0
+Video Games,CA,12000.0
+Video Games,CH,10000.0
+Video Games,DE,10700.0
+Video Games,DK,25000.0
+Video Games,ES,10000.0
+Video Games,FR,10000.0
+Video Games,GB,7000.0
+Video Games,HK,50000.0
+Video Games,IE,19000.0
+Video Games,IT,10000.0
+Video Games,JP,1150000.0
+Video Games,MX,80000.0
+Video Games,NL,7000.0
+Video Games,NO,50000.0
+Video Games,NZ,15000.0
+Video Games,Not Specified,108435.0
+Video Games,SE,50000.0
+Video Games,SG,5733.0
+Video Games,US,11000.0
+Wearables,AT,15000.0
+Wearables,AU,20000.0
+Wearables,BE,50000.0
+Wearables,CA,35000.0
+Wearables,CH,15057.5
+Wearables,DE,20000.0
+Wearables,DK,200000.0
+Wearables,ES,35000.0
+Wearables,FR,30000.0
+Wearables,GB,25000.0
+Wearables,HK,125000.0
+Wearables,IE,9950.0
+Wearables,IT,70000.0
+Wearables,MX,82791.5
+Wearables,NL,54500.0
+Wearables,NO,30000.0
+Wearables,SE,456000.0
+Wearables,SG,35100.0
+Wearables,US,30000.0
+Weaving,AU,3400.0
+Weaving,CA,1500.0
+Weaving,DE,20000.0
+Weaving,ES,3500.0
+Weaving,FR,1525.0
+Weaving,GB,6000.0
+Weaving,IE,2000.0
+Weaving,IT,10000.0
+Weaving,MX,90000.0
+Weaving,SE,30000.0
+Weaving,SG,2088.0
+Weaving,US,1500.0
+Web,AT,10000.0
+Web,AU,10000.0
+Web,BE,8500.0
+Web,CA,12000.0
+Web,CH,8000.0
+Web,DE,15000.0
+Web,DK,50000.0
+Web,ES,10000.0
+Web,FR,10000.0
+Web,GB,8000.0
+Web,HK,1000000.0
+Web,IE,5000.0
+Web,IT,10000.0
+Web,LU,20000.0
+Web,MX,60000.0
+Web,NL,10000.0
+Web,NO,50000.0
+Web,NZ,10000.0
+Web,SE,50000.0
+Web,SG,25000.0
+Web,US,10000.0
+Webcomics,AT,6969.0
+Webcomics,AU,1760.0
+Webcomics,BE,42500.0
+Webcomics,CA,4550.0
+Webcomics,DE,1200.0
+Webcomics,DK,5000.0
+Webcomics,ES,2700.0
+Webcomics,FR,2450.0
+Webcomics,GB,2600.0
+Webcomics,HK,10000.0
+Webcomics,IE,1700.0
+Webcomics,IT,800.0
+Webcomics,MX,35000.0
+Webcomics,NO,12560.0
+Webcomics,NZ,5000.0
+Webcomics,SE,33000.0
+Webcomics,US,4000.0
+Webseries,AT,23500.0
+Webseries,AU,6250.0
+Webseries,BE,12850.0
+Webseries,CA,7000.0
+Webseries,CH,1611.0
+Webseries,DE,10000.0
+Webseries,DK,67500.0
+Webseries,ES,2300.0
+Webseries,FR,5250.0
+Webseries,GB,2500.0
+Webseries,IE,32500.0
+Webseries,IT,8000.0
+Webseries,MX,92500.0
+Webseries,NL,5000.0
+Webseries,NO,25000.0
+Webseries,NZ,8000.0
+Webseries,SE,29500.0
+Webseries,US,5200.0
+Woodworking,AT,8000.0
+Woodworking,AU,5000.0
+Woodworking,BE,3600.0
+Woodworking,CA,5000.0
+Woodworking,CH,5100.0
+Woodworking,DE,9500.0
+Woodworking,DK,20000.0
+Woodworking,ES,40000.0
+Woodworking,FR,4750.0
+Woodworking,GB,1550.0
+Woodworking,IE,3000.0
+Woodworking,IT,4250.0
+Woodworking,MX,82000.0
+Woodworking,NL,5000.0
+Woodworking,NO,51200.0
+Woodworking,NZ,1250.0
+Woodworking,SE,4000.0
+Woodworking,SG,20000.0
+Woodworking,US,3000.0
+Workshops,AU,3250.0
+Workshops,CA,2500.0
+Workshops,DE,5000.0
+Workshops,DK,7000.0
+Workshops,ES,4000.0
+Workshops,FR,1500.0
+Workshops,GB,1500.0
+Workshops,IT,51000.0
+Workshops,MX,135000.0
+Workshops,NL,2000.0
+Workshops,US,4875.0
+World Music,AT,34000.0
+World Music,AU,6500.0
+World Music,BE,2000.0
+World Music,CA,5000.0
+World Music,CH,20000.0
+World Music,DE,6000.0
+World Music,DK,42750.0
+World Music,ES,6000.0
+World Music,FR,6750.0
+World Music,GB,3500.0
+World Music,IE,4500.0
+World Music,IT,2800.0
+World Music,MX,62000.0
+World Music,NL,5000.0
+World Music,NO,50000.0
+World Music,NZ,10000.0
+World Music,SE,16000.0
+World Music,SG,176500.0
+World Music,US,5000.0
+Young Adult,AT,40000.0
+Young Adult,AU,6000.0
+Young Adult,BE,2649.5
+Young Adult,CA,5000.0
+Young Adult,CH,14500.0
+Young Adult,DE,8500.0
+Young Adult,DK,40000.0
+Young Adult,ES,5500.0
+Young Adult,FR,3822.5
+Young Adult,GB,1999.0
+Young Adult,IT,625.0
+Young Adult,MX,40000.0
+Young Adult,NL,10000.0
+Young Adult,NO,50000.0
+Young Adult,NZ,4250.0
+Young Adult,SE,15000.0
+Young Adult,SG,150.0
+Young Adult,US,3300.0
+Zines,AU,1900.0
+Zines,CA,2250.0
+Zines,DE,10000.0
+Zines,DK,17000.0
+Zines,ES,8000.0
+Zines,FR,2500.0
+Zines,GB,1000.0
+Zines,IE,750.0
+Zines,IT,1750.0
+Zines,MX,60000.0
+Zines,NL,4000.0
+Zines,NZ,2750.0
+Zines,SE,50000.0
+Zines,US,2870.0
