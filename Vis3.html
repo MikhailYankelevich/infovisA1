@@ -1,0 +1,126 @@
+<html>
+<head>
+    <title> Mikhail Yankelevich visualisation 3</title>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.9.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.0.2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.2.1"></script>
+</head>
+<body>
+    <table style="width: 850px" cellspacing="5" cellpadding="5">
+    <tbody>
+    <tr>
+    <td style="width: 200px; vertical-align: top;"><strong>Name:&nbsp;</strong></td>
+    <td style="vertical-align: top;">Mikhail Yankelevich</td>
+    </tr>
+    <tr>
+    <td style="vertical-align: top;"><strong>Student Number:</strong></td>
+    <td style="vertical-align: top;">16205326</td>
+    </tr>
+    <tr>
+    <td style="vertical-align: top;"><strong>Dataset description:</strong></td>
+    <td style="vertical-align: top;">
+    <p><a href="https://www.kaggle.com/kemical/kickstarter-projects#ks-projects-201801.csv">Kickstarter Project Details</a>.</p>
+    <p>This dataset contains information about the Kickstarter projects from 2009 to 2018. It should be noted, that the dataset was cleaned up and aggregated in python3 at first to leave Vega-lite no "heavy lifting". The dataset can be found <a href="https://raw.githubusercontent.com/MikhailYankelevich/infovisA1/master/vis3.csv" target="_blank" rel="noopener">here</a>.</p>
+    </td>
+    </tr>
+    <tr>
+    <td style="vertical-align: top;"><strong>Initial questions</strong></td>
+    <td style="vertical-align: top;">Does Kickstarter continue to get more and more projects?</td>
+    </tr>
+    </tbody>
+    </table>
+    <hr />
+  <div id="vis" class="container"></div>
+  <script type="text/javascript">
+    var yourVlSpec =  
+    
+     {
+
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",        "data": {
+    "url": "https://raw.githubusercontent.com/MikhailYankelevich/infovisA1/master/vis3.csv",
+    "format": {
+      "type": "csv" 
+    }
+  },
+  "transform": [
+         {"joinaggregate": [{
+          "op": "count",
+          "field": "launched",
+          "as": "Total"
+          }],
+          "groupby": ["launched"]
+    },
+    {"filter": "datum.sorter >200000 "}
+    
+  ],
+
+  "width": 1000,
+  "height": 300,
+  "title": {
+    "text": " Total Number of Launched Projects Over Time", 
+    "anchor": "middle",
+    "fontSize":30
+  },
+  "mark":"line",
+  
+  "encoding": {
+    "x":{
+      "field": "launched",
+      "type": "ordinal",
+      "axis": {"title": "Date",
+          "titleFontSize": 18,
+          "labelFontSize": 15,
+          "labelAngle": 0
+        
+      },
+      "zindex": false,
+  
+      "sort": { "field": "sorter"}
+    },
+    "y": {
+      
+      "field": "Total",
+      "type":"quantitative",
+       "axis": {"title": "Number of projects",
+          "titleFontSize": 18,
+          "labelFontSize": 15,
+          "labelAngle": 0
+        
+      }
+    },
+
+    "tooltip":{
+      "field":"Total",
+      "type":"quantitative"
+    }
+  
+  }
+  
+}
+
+        vegaEmbed("#vis", yourVlSpec);
+  </script>
+    <hr />
+<table style="width: 850px;" cellspacing="5" cellpadding="5">
+<tbody>
+<tr>
+<td style="width: 200px; vertical-align: top;"><strong>Description:&nbsp;</strong></td>
+<td style="vertical-align: top;">This line chart represents the number of projects created at each moment in time from 2009 to 2018. 
+Hovering over the graph the details about number of projects at the point in time can be seen. </td>
+</tr>
+<tr>
+<td style="vertical-align: top;"><strong>Insight:</strong></td>
+<td style="vertical-align: top;">The trend is quite clear on this visualisation: the number of projects grows with time. However, in 2014 there was a sharp decrease in the number of projects, which was unexpected initially but started to make sense afterwards. This is due to the platform being very popular in around 2013 and 2014, which lead to the increase of the number of projects, but as people started to get used to it, the number of projects dropped and stays the same. Another notable trend in this visualisation is the drop in the number of new projects in Decembers. This is due to the people wanting to launch their products (present the idea, to be more exact) in the new year to seem more recent. Note: the graph has a drop at the end of 2017 in December. This is due to the dataset not featuring any projects launched in 2018.  </td>
+</tr>
+<tr>
+<td style="vertical-align: top;"><strong>Design considerations</strong></td>
+<td style="vertical-align: top;">The line chart was used as the most effective way to show trends over time. I've used the bar chart at first, but it was not as effective as this solution. There have been several alternatives to this visualisation like the average goals per year, however, they were not descriptive and this solution was the most interesting.</td>
+</tr>
+<tr>
+<td style="width: 200px; vertical-align: top;"><strong>Data filtering and transformation:&nbsp;</strong></td>
+<td style="vertical-align: top;">Due to the dataset having no count values and the dataset being very large for Vega-lite to analise without crushing, I have cleaned and aggregated the dataset in python3 (jupiter notebook is in the same archive as this html file). I have saved only the neccesery rows into the separate dataset avalable over <a href="https://raw.githubusercontent.com/MikhailYankelevich/infovisA1/master/vis3.csv" target="_blank" rel="noopener">this</a> lnk. The aggregation in Vega-lite was used to cunt the number of projects. However due to the limitations, if Vega-lite continuing to crash, there could be no sorting performed on time. The time was recorded in python to the text format as well as special 'sorter' value (year*100 +month), which allowed to use it as a chronological sorting without analysis made by Vega-lite. The filter was also set to show only sorter values above the year 2000 (2000*100= 200000), which removed a few projects with missing date (automatically set to 1970). </td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>

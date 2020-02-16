@@ -1,0 +1,135 @@
+<html>
+<head>
+    <title> Mikhail Yankelevich visualisation 2</title>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.9.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.0.2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.2.1"></script>
+</head>
+<body>
+    <table style="width: 850px" cellspacing="5" cellpadding="5">
+    <tbody>
+    <tr>
+    <td style="width: 200px; vertical-align: top;"><strong>Name:&nbsp;</strong></td>
+    <td style="vertical-align: top;">Mikhail Yankelevich</td>
+    </tr>
+    <tr>
+    <td style="vertical-align: top;"><strong>Student Number:</strong></td>
+    <td style="vertical-align: top;">16205326</td>
+    </tr>
+    <tr>
+    <td style="vertical-align: top;"><strong>Dataset description:</strong></td>
+    <td style="vertical-align: top;">
+    <p><a href="https://www.kaggle.com/kemical/kickstarter-projects#ks-projects-201801.csv">Kickstarter Project Details</a>.</p>
+    <p>This dataset contains information about the Kickstarter projects from 2009 to 2018. It should be noted, that the dataset was cleaned up and aggregated in python3 at first to leave Vega-lite no "heavy lifting". The dataset can be found <a href="https://raw.githubusercontent.com/MikhailYankelevich/infovisA1/master/vis2.csv" target="_blank" rel="noopener">here</a>.</p>
+    </td>
+    </tr>
+    <tr>
+    <td style="vertical-align: top;"><strong>Initial questions</strong></td>
+    <td style="vertical-align: top;">What projects are generally the most expencive?</td>
+    </tr>
+    </tbody>
+    </table>
+    <hr />
+  <div id="vis" class="container"></div>
+  <script type="text/javascript">
+    var yourVlSpec =  
+    
+      {
+
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",        "data": {
+    "url": "https://raw.githubusercontent.com/MikhailYankelevich/infovisA1/master/vis2.csv",
+    "format": {
+      "type": "csv" 
+    }
+  },
+
+"transform": [
+     {"joinaggregate": [{
+          "op": "median",
+          "field": "usd_goal_real",
+          "as": "aggregatedGoal"
+          }],
+          "groupby": ["category"]
+  }, {"filter": "datum.aggregatedGoal > 20000"}
+    
+  ],
+
+  "width": 500,
+  "height": {"step": 23},
+  "title": {
+    "text": "Median goal in USD vs project category", 
+    "anchor": "middle",
+    "fontSize":30
+  },
+  "mark": {"type":"bar",
+  "size": 10},
+  
+  "encoding": {
+    "y":{
+      "field": "category",
+      "type": "nominal",
+      "sort": "-x",
+      "axis": {"title": "Project category",
+          "titleFontSize": 18,
+          "labelFontSize": 15,
+          "labelAngle": 0
+        
+      }
+    },
+    "x": {
+      
+      "field": "aggregatedGoal",
+      "type":"quantitative",
+      "axis": {"title": "Median goal in USD",
+          "titleFontSize": 18,
+          "labelFontSize": 15,
+          "labelAngle": 0
+        
+      },
+      
+      "scale": {
+        "zero": true
+      }
+      
+    },
+    "tooltip":{
+      "field":"aggregatedGoal",
+      "type":"quantitative"
+    },
+    "color":{
+      "legend":null,
+      "field": "aggregatedGoal",
+      "type": "quantitative",
+       "scale": {
+          "range": ["#add8e6", "#002366"]
+         }}
+  
+  }
+  
+}
+
+        vegaEmbed("#vis", yourVlSpec);
+  </script>
+    <hr />
+<table style="width: 850px;" cellspacing="5" cellpadding="5">
+<tbody>
+<tr>
+<td style="width: 200px; vertical-align: top;"><strong>Description:&nbsp;</strong></td>
+<td style="vertical-align: top;">This bar chart represents the median goal in USD per project category. The graph is sorted from the most expensive to the cheapest project category (shows only top 10). It also shows the ranking with the shades of the colour, which is distinguishable with every case of the colourblindness. This is just a finishing touch and is not confusing. Hovering over the graph the details about each median goal can be seen. </td>
+</tr>
+<tr>
+<td style="vertical-align: top;"><strong>Insight:</strong></td>
+<td style="vertical-align: top;">The graph shows a very predictable result. The most generally expensive projects are hardware closely followed by technology due to the amount of time spent developing even a very simple thing. The surprising result here for me was the fact that restaurants request quite a lot more money then farms. However, I've expected them both to be in the top 10.  </td>
+</tr>
+<tr>
+<td style="vertical-align: top;"><strong>Design considerations</strong></td>
+<td style="vertical-align: top;">I have used a bar chart in this visualisation as well, as it is the best way to show the difference between the numeric values. I've tried to use a scatter plot for this exact visualisation, but the graph turned out to be very bad. Also, initially, the idea was to see if projects fail more if they ask more or less money, but this graph turned out to be very bad due to the several projects requesting 100 million and more and bringing all the rest of the graph into the dot. Moreover, all such projects have failed.</td>
+</tr>
+<tr>
+<td style="width: 200px; vertical-align: top;"><strong>Data filtering and transformation:&nbsp;</strong></td>
+<td style="vertical-align: top;">Due to the dataset having no count values and the dataset being very large for Vega-lite to analise without crushing, I have cleaned the dataset in python3 (jupiter notebook is in the same archive as this html file). I have saved only the neccesery rows into the separate dataset avalable over <a href="https://raw.githubusercontent.com/MikhailYankelevich/infovisA1/master/vis2.csv" target="_blank" rel="noopener">this</a> lnk. The aggregation was made in Vega-lite and calculate the median and not an average due to a few projects, that requested a huge amount of money (100 million and more) and were, obviously, unsuccessful. This fact forced to use the median as a better representation of the data. The filters that are applied are limiting the median goals to the $20000 in order to leave only top 10.</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>

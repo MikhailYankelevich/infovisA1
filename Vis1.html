@@ -1,0 +1,137 @@
+<html>
+<head>
+    <title> Mikhail Yankelevich visualisation 1</title>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.9.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.0.2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.2.1"></script>
+</head>
+<body>
+    <table style="width: 850px" cellspacing="5" cellpadding="5">
+    <tbody>
+    <tr>
+    <td style="width: 200px; vertical-align: top;"><strong>Name:&nbsp;</strong></td>
+    <td style="vertical-align: top;">Mikhail Yankelevich</td>
+    </tr>
+    <tr>
+    <td style="vertical-align: top;"><strong>Student Number:</strong></td>
+    <td style="vertical-align: top;">16205326</td>
+    </tr>
+    <tr>
+    <td style="vertical-align: top;"><strong>Dataset description:</strong></td>
+    <td style="vertical-align: top;">
+    <p><a href="https://www.kaggle.com/kemical/kickstarter-projects#ks-projects-201801.csv">Kickstarter Project Details</a>.</p>
+    <p>This dataset contains information about the Kickstarter projects from 2009 to 2018. It should be noted, that the dataset was cleaned up and aggregated in python3 at first to leave Vega-lite no "heavy lifting". The dataset can be found <a href="https://raw.githubusercontent.com/MikhailYankelevich/infovisA1/master/vis1.csv" target="_blank" rel="noopener">here</a>.</p>
+    </td>
+    </tr>
+    <tr>
+    <td style="vertical-align: top;"><strong>Initial questions</strong></td>
+    <td style="vertical-align: top;">What is the most popular project category? Are there just a few projects succeeding?</td>
+    </tr>
+    </tbody>
+    </table>
+    <hr />
+  <div id="vis" class="container"></div>
+  <script type="text/javascript">
+    var yourVlSpec =  
+    
+    {
+
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",        "data": {
+    "url": "https://raw.githubusercontent.com/MikhailYankelevich/infovisA1/master/vis1.csv",
+    "format": {
+      "type": "csv" 
+    }
+  },
+   "transform": [
+     {"joinaggregate": [{
+          "op": "sum",
+          "field": "count",
+          "as": "Total"
+          }],
+          "groupby": ["category"]
+  },
+    {"filter": "datum.Total >8000 "}
+    
+  ],
+
+
+
+  "width": 500,
+  "height": 300,
+  "title": {
+    "text": "Number of Successful and Failed Projects per Each Category", 
+    "anchor": "middle",
+    "fontSize":30
+  },
+  "mark": {"type":"bar",
+  "size": 16},
+  
+  "encoding": {
+    "y":{
+      "field": "category",
+      "type": "nominal",
+      "axis": {"title": "Project category",
+          "titleFontSize": 18,
+          "labelFontSize": 15,
+          "labelAngle": 0
+        
+      },
+      "sort": "-x"
+    },
+    "x": {
+      
+      "field": "count",
+      "type":"quantitative",
+      "axis": {"title": "Number of projects",
+          "titleFontSize": 18,
+          "labelFontSize": 15,
+          "labelAngle": 0
+        
+      },
+      "scale": {
+        "zero": true
+      }
+    },
+    "color":{
+      "legend":{ "title": "State","titleFontSize":18, "labelFontSize": 15},
+      "field": "state",
+      "type": "ordinal",
+       "scale": {
+          "domain":["fail","successful"],
+          "range": ["#ff2800", "#002366"]
+         }
+    },
+    "tooltip":{
+      "field":"count",
+      "type":"quantitative"
+    }
+  
+  }
+  
+}
+
+        vegaEmbed("#vis", yourVlSpec);
+  </script>
+    <hr />
+<table style="width: 850px;" cellspacing="5" cellpadding="5">
+<tbody>
+<tr>
+<td style="width: 200px; vertical-align: top;"><strong>Description:&nbsp;</strong></td>
+<td style="vertical-align: top;">This bar chart represents the total number of projects per project category. It also shows the number of failed and successful projects as a part of the bar and shown in 2 different colours (red for fail and blue for success), which are distinguishable with every case of the colourblindness. Hovering over the graph the details about each number of successful and failed projects are shown. </td>
+</tr>
+<tr>
+<td style="vertical-align: top;"><strong>Insight:</strong></td>
+<td style="vertical-align: top;">The data clearly shows the top 12 most popular project categories. The most popular ones are 'Product Design', which didn't surprise me, as Kickstarter is famous for such projects. However, the second most popular category 'Documentary' surprised me a lot, as I didn't expect that many people to like documentaries and pay for their development. Another big surprise is the fact that the relationship between successful projects and failed ones isn't that big. It is sometimes is even around 50/50. I've been sure, that the graph will be all red and there will be no blue. Apparently, the difficulty of the crowdfunding might be, after all, much lower than it is common to believe. </td>
+</tr>
+<tr>
+<td style="vertical-align: top;"><strong>Design considerations</strong></td>
+<td style="vertical-align: top;">I have used a barchart as a very effective way to show and compare numeric values. It shows the top 12 prject categories and also highlites the portion of the failed and seccseded projects by colour (red for fail and blue for success). I've tried to use different kinds of points for this chart, however they were much less effective then a bar chart in this case. I've also added a tooltip. Hovering over the graph the details about each number of successful and failed projects are shown. </td>
+</tr>
+<tr>
+<td style="width: 200px; vertical-align: top;"><strong>Data filtering and transformation:&nbsp;</strong></td>
+<td style="vertical-align: top;">Due to the dataset having no count values and the dataset is very large for Vega-lite to analyse without crushing, I have cleaned and aggregated the dataset in python3 (Jupiter notebook is in the same archive as this HTML file). I have saved only the necessary rows into the separate dataset available over <a href="https://raw.githubusercontent.com/MikhailYankelevich/infovisA1/master/vis1.csv" target="_blank" rel="noopener">this</a> lnk. The only aggregation made in vega-lite is counting of the total number of projects by summing both successful and failed number of projects, which were calculated by python.  The filter was implemented into visualisation, which removes all project categories which number less than 8000 leaving just 12 on the graph. </td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
